@@ -310,5 +310,109 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/766421/000076642126000046/ex99110202026earningsrelea.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/766421/000076642126000046/0000766421-26-000046-index.htm",
     "saved_at": "2026-10-25T21:39:30+08:00"
+  },
+  {
+    "cik": "1130144",
+    "company": "SIERRA BANCORP",
+    "accession": "0001437749-26-033465",
+    "release_date": "2026-10-26",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": {
+        "value": 15.281,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 15,281 | $ | 9,919 | $ | 9,699"
+      },
+      "diluted_eps": {
+        "value": 1.18,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share | $ | 1.18 | $ | 0.77 | $ | 0.72"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "Management says the quarter produced record profits and the highest gross loan production since 2020.",
+        "quote": "we achieved record profits, solid core deposit growth, and our highest quarterly gross loan production since 2020."
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "Net income rose 58% year on year, helped by a credit loss release, higher net interest income and lower expense.",
+        "quote": "Net income increased $5.6 million, or 58%, to $15.3 million for the third quarter of 2026"
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says he is even more optimistic about future opportunities.",
+        "quote": "I remain even more optimistic about our future opportunities"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls it an incredible quarter with record results and says he is optimistic about the future."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1130144-0001437749-26-033465.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1130144/000143774926033465/ex_1016422.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1130144/000143774926033465/0001437749-26-033465-index.htm",
+    "saved_at": "2026-10-27T20:21:45+08:00"
+  },
+  {
+    "cik": "1605301",
+    "company": "CB Financial Services, Inc.",
+    "accession": "0001605301-26-000042",
+    "release_date": "2026-10-26",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": {
+        "value": 5.327,
+        "unit": "USD millions",
+        "quote": "Net Income (Loss) | $ | 5,327 | $ | 4,301 | $ | 3,867 | $ | 4,742 | $ | (5,696)"
+      },
+      "diluted_eps": {
+        "value": 0.99,
+        "unit": "USD per share",
+        "quote": "Earnings (Loss) Per Common Share - Diluted | 0.99 | 0.80 | 0.73 | 0.89 | (1.07)"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "margins",
+        "claim": "The CEO says net interest margin and earnings improved in the quarter.",
+        "quote": "We delivered solid results for the quarter with improved net interest margin and earnings."
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "The CEO says expenses were kept in line with the operating environment.",
+        "quote": "We also maintained disciplined expense management, keeping our cost structure aligned with the current operating environment."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "Management expects loan payoff activity to moderate in the fourth quarter.",
+        "quote": "we expect payoff activity to moderate in the fourth quarter"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO reports solid results, improved margin and a strong capital position, and looks to build momentum."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1605301-0001605301-26-000042.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1605301/000160530126000042/a20260930ex9913rdqtrearnin.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1605301/000160530126000042/0001605301-26-000042-index.htm",
+    "saved_at": "2026-10-27T20:21:45+08:00"
   }
 ]
