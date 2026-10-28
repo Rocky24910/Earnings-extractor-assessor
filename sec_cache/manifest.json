@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-28T08:27:26+08:00",
+  "fetched_at": "2026-10-28T08:43:01+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,109 +16,109 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-26&enddt=2026-10-27",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 88 ms"
+      "detail": "HTTP 200, 60 KB in 132 ms"
     },
     {
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-26&enddt=2026-10-27&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 380 ms"
+      "detail": "HTTP 200, 60 KB in 54 ms"
     },
     {
       "name": "Earnings radar, page 3",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-26&enddt=2026-10-27&from=200",
       "ok": true,
-      "detail": "HTTP 200, 30 KB in 537 ms"
+      "detail": "HTTP 200, 30 KB in 53 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 72 ms"
+      "detail": "HTTP 200, 148 KB in 87 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 24 ms"
+      "detail": "HTTP 200, 156 KB in 73 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 155 KB in 21 ms"
+      "detail": "HTTP 200, 155 KB in 16 ms"
     },
     {
       "name": "CTS CORP filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/26058/000119312526432724/index.json",
       "ok": true,
-      "detail": "HTTP 200, 3 KB in 97 ms"
+      "detail": "HTTP 200, 3 KB in 142 ms"
     },
     {
       "name": "CTS CORP press release",
       "url": "https://www.sec.gov/Archives/edgar/data/26058/000119312526432724/cts-ex99_1.htm",
       "ok": true,
-      "detail": "HTTP 200, 1,764 KB in 89 ms"
+      "detail": "HTTP 200, 1,764 KB in 106 ms"
     },
     {
       "name": "NXP Semiconductors N.V. filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1413447/000141344726000057/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 89 ms"
+      "detail": "HTTP 200, 1 KB in 54 ms"
     },
     {
       "name": "NXP Semiconductors N.V. press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1413447/000141344726000057/nxp3q26exhibit991.htm",
       "ok": true,
-      "detail": "HTTP 200, 502 KB in 53 ms"
+      "detail": "HTTP 200, 502 KB in 79 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,090 KB in 101 ms"
+      "detail": "HTTP 200, 3,090 KB in 28 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,373 KB in 396 ms"
+      "detail": "HTTP 200, 4,373 KB in 23 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,736 KB in 80 ms"
+      "detail": "HTTP 200, 2,736 KB in 32 ms"
     },
     {
       "name": "CTS CORP company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000026058.json",
       "ok": true,
-      "detail": "HTTP 200, 3,407 KB in 825 ms"
+      "detail": "HTTP 200, 3,407 KB in 546 ms"
     },
     {
       "name": "NXP Semiconductors N.V. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001413447.json",
       "ok": true,
-      "detail": "HTTP 200, 2,738 KB in 453 ms"
+      "detail": "HTTP 200, 2,738 KB in 55 ms"
     },
     {
       "name": "ALASKA AIR GROUP, INC. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000766421.json",
       "ok": true,
-      "detail": "HTTP 200, 3,580 KB in 381 ms"
+      "detail": "HTTP 200, 3,580 KB in 322 ms"
     },
     {
       "name": "SIERRA BANCORP company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001130144.json",
       "ok": true,
-      "detail": "HTTP 200, 4,432 KB in 433 ms"
+      "detail": "HTTP 200, 4,432 KB in 104 ms"
     },
     {
       "name": "CB Financial Services, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001605301.json",
       "ok": true,
-      "detail": "HTTP 200, 3,792 KB in 700 ms"
+      "detail": "HTTP 200, 3,792 KB in 338 ms"
     }
   ],
   "files": [
