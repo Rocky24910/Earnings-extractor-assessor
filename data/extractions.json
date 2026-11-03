@@ -414,5 +414,251 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1605301/000160530126000042/a20260930ex9913rdqtrearnin.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1605301/000160530126000042/0001605301-26-000042-index.htm",
     "saved_at": "2026-10-27T20:21:45+08:00"
+  },
+  {
+    "cik": "1652044",
+    "company": "Alphabet",
+    "accession": "0001652044-26-000080",
+    "release_date": "2026-10-28",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 127577,
+        "unit": "USD millions",
+        "quote": "Revenues | $ | 102,346 | $ | 127,577"
+      },
+      "operating_income": {
+        "value": 40576,
+        "unit": "USD millions",
+        "quote": "Income from operations | 31,228 | 40,576"
+      },
+      "net_income": {
+        "value": 26468,
+        "unit": "USD millions",
+        "quote": "Net income | 34,979 | 26,468"
+      },
+      "diluted_eps": {
+        "value": 2.12,
+        "unit": "USD per share",
+        "quote": "Diluted net income per common share | $ | 2.87 | $ | 2.12"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Alphabet revenues grew 25% year over year.",
+        "quote": "Consolidated Alphabet revenues increased 25% to $127.6 billion"
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "Google Cloud revenues grew 103%, driven by demand for AI infrastructure and solutions.",
+        "quote": "Google Cloud revenues grew 103%, powered by huge demand for our AI infrastructure and AI solutions."
+      },
+      {
+        "id": "M3",
+        "topic": "margins",
+        "claim": "Operating income rose 30% and the operating margin was 31.8%.",
+        "quote": "Consolidated Alphabet operating income increased 30% and operating margin was 31.8%."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls it a strong quarter and describes momentum across the business."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1652044-0001652044-26-000080.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/0001652044-26-000080-index.htm",
+    "saved_at": "2026-11-04T06:08:37+08:00"
+  },
+  {
+    "cik": "1018724",
+    "company": "Amazon",
+    "accession": "0001018724-26-000038",
+    "release_date": "2026-10-29",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 201944,
+        "unit": "USD millions",
+        "quote": "Total net sales | 180,169 | 201,944"
+      },
+      "operating_income": {
+        "value": 28076,
+        "unit": "USD millions",
+        "quote": "Operating income | 17,422 | 28,076"
+      },
+      "net_income": {
+        "value": 20685,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 21,187 | $ | 20,685"
+      },
+      "diluted_eps": {
+        "value": 1.89,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share | $ | 1.95 | $ | 1.89"
+      }
+    },
+    "guidance": {
+      "text": "For the fourth quarter of 2026 Amazon expects net sales of $240.0 billion to $247.0 billion.",
+      "quote": "Net sales are expected to be between $240.0 billion and $247.0 billion, or to grow between 12% and 16% compared with fourth quarter 2025."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "AWS revenue grew over 39% year over year.",
+        "quote": "AWS net sales increased 39.3%—its fastest growth in nearly five years"
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "Operating margin was the highest the company has reported.",
+        "quote": "Operating income was $28.1 billion and operating margin was 13.9%—Amazon’s highest operating margin ever"
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO projects AWS growth above 40% in 2027 and 2028.",
+        "quote": "projected revenue growth rates of over 40% both in 2027 and in 2028"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO says the AWS investment is working and points to record margin and further growth."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1018724-0001018724-26-000038.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/amzn-20260930xex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/0001018724-26-000038-index.htm",
+    "saved_at": "2026-11-04T06:08:37+08:00"
+  },
+  {
+    "cik": "1015739",
+    "company": "AWARE INC /MA/",
+    "accession": "0001193125-26-436157",
+    "release_date": "2026-10-28",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 4.417,
+        "unit": "USD millions",
+        "quote": "Total revenue | 4,417 | 5,129"
+      },
+      "operating_income": {
+        "value": -0.94,
+        "unit": "USD millions",
+        "quote": "Operating loss | (940"
+      },
+      "net_income": {
+        "value": -0.791,
+        "unit": "USD millions",
+        "quote": "Net loss | $ | (791"
+      },
+      "diluted_eps": {
+        "value": -0.04,
+        "unit": "USD per share",
+        "quote": "Net loss per share – diluted | $ | (0.04"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Quarterly revenue fell year on year while recurring revenue grew.",
+        "quote": "Third-quarter revenue was $4.4 million, compared with $5.1 million in the prior-year period and recurring revenue grew to approximately $4.0 million from approximately $3.6 million a year ago"
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "Operating expenses fell because of cost-reduction actions.",
+        "quote": "Operating expenses dropped to $5.4 million from $6.4 million in the third quarter of 2025, reflecting the cost-reduction actions implemented earlier in 2026."
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The CEO says improving revenue consistency remains a priority.",
+        "quote": "improving revenue consistency remains a priority"
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO notes progress but says revenue consistency must improve."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1015739-0001193125-26-436157.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1015739/000119312526436157/awre-ex99_1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1015739/000119312526436157/0001193125-26-436157-index.htm",
+    "saved_at": "2026-11-04T06:08:37+08:00"
+  },
+  {
+    "cik": "879101",
+    "company": "KIMCO REALTY CORP",
+    "accession": "0001193125-26-436941",
+    "release_date": "2026-10-29",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 546.147,
+        "unit": "USD millions",
+        "quote": "Total revenues | 546,147 | 535,861"
+      },
+      "operating_income": {
+        "value": 279.984,
+        "unit": "USD millions",
+        "quote": "Operating income | 279,984 | 187,229"
+      },
+      "net_income": {
+        "value": 279.074,
+        "unit": "USD millions",
+        "quote": "Net income attributable to the company | 279,074 | 137,775"
+      },
+      "diluted_eps": {
+        "value": 0.41,
+        "unit": "USD per share",
+        "quote": "Diluted (2) | $ | 0.41 | $ | 0.19"
+      }
+    },
+    "guidance": {
+      "text": "Kimco raised its 2026 outlook for net income per diluted share to $1.07 to $1.09.",
+      "quote": "Net income: | $1.07 to $1.09 | $1.00 to $1.03"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "Same property NOI grew 4.9% year over year.",
+        "quote": "Grew same property net operating income* (\"NOI\") 4.9% year-over-year."
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The CEO says the company again raised its full year guidance.",
+        "quote": "This positive momentum allowed us to again raise our full year guidance"
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "Net income rose, mainly on higher gains on property sales.",
+        "quote": "The year-over-year increase was primarily driven by $122.4 million more of gains on sales of properties, net of impairments."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO cites record occupancy and strong execution, and the outlook was raised."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/879101-0001193125-26-436941.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/879101/000119312526436941/kim-ex99_1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/879101/000119312526436941/0001193125-26-436941-index.htm",
+    "saved_at": "2026-11-04T06:08:37+08:00"
   }
 ]

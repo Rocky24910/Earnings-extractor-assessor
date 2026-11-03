@@ -1,0 +1,144 @@
+Company: AWARE INC /MA/ (CIK 1015739)
+Accession: 0001193125-26-436157
+Results released: 2026-10-28
+Press release: https://www.sec.gov/Archives/edgar/data/1015739/000119312526436157/awre-ex99_1.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1015739/000119312526436157/0001193125-26-436157-index.htm
+Saved: 2026-11-04T06:08:37+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 awre-ex99_1.htm EX-99.1
+EXHIBIT 99.1
+Company Contact Delaney Gembis Aware, Inc. 781-687-0300 marketing@aware.com | Investor Contact David Traverse Aware, Inc. 781-687-0300 IR@aware.com
+Aware Reports Third Quarter Financial Results
+BURLINGTON, MASS. – October 28, 2026 – Aware, Inc. (NASDAQ: AWRE), a global leader in biometric orchestration, today reported financial results for the third quarter ended September 30, 2026.
+Third Quarter 2026 Operational Highlights
+•
+Selected by a government agency customer to deploy Intelligent Liveness capabilities from the Awareness Platform, marking an important step forward for the platform’s use in high-assurance identity environments.
+•
+Established a new commercial relationship with Adobe Acrobat Sign's distributor, with new customer activity in Latin America.
+•
+Realized the impact of cost-reduction actions implemented earlier in 2026, actions expected to generate approximately $4.0 million in annualized savings, contributing to a reduction in operating loss compared with the prior-year period.
+Management Commentary
+"Third-quarter revenue was $4.4 million, compared with $5.1 million in the prior-year period and recurring revenue grew to approximately $4.0 million from approximately $3.6 million a year ago,” said Ajay Amlani, CEO and President of Aware.” While we made progress in several important areas, improving revenue consistency remains a priority as we work to translate the opportunities in front of us into more predictable financial performance.”
+“During the quarter, Aware was selected by a government agency customer to deploy Intelligent Liveness capabilities from the Awareness Platform. This represents a new government agency engagement and gives us an opportunity to demonstrate how biometric orchestration and Intelligent Liveness can support high-assurance identity environments,” Amlani said. “Since funding for most of the Department of Homeland Security was restored, we have seen increased solicitation activity for the biometric identity programs we pursue, as agencies look to allocate funding to improve national security, modernize legacy biometric and identity systems, and improve user experiences. While federal procurement cycles remain difficult to predict, converting our new federal government engagement into an active customer represents meaningful progress.”
+Aware also continued to expand its commercial business, including a new relationship with Adobe Acrobat Sign's distributor, delivering biometric security for customers using Adobe Acrobat Sign, with new customer activity in Latin America. The release of the Awareness Platform and investments into its Intelligent Liveness module have reinvigorated the pipeline as commercial customers look to expand their use of biometrics to defend against
+AI-enabled fraud attacks. Specifically, customers increasingly seek to control their own biometric systems rather than depend on a single vendor.
+“We are encouraged by the progress we are seeing across both customer expansion and recurring revenue,” Amlani said. “While recurring revenue can fluctuate from quarter to quarter, increasing the recurring component of the business over time should help create a more durable revenue foundation.”
+Operating expenses dropped to $5.4 million from $6.4 million in the third quarter of 2025, reflecting the cost-reduction actions implemented earlier in 2026.
+“Reducing expenses alone is not the objective,” Amlani added. “We need to pair a more efficient cost structure with stronger and more consistent revenue performance. Our strategy remains centered on the Awareness Platform and its biometric orchestration capabilities, helping organizations more easily deploy, manage and modernize biometric identity systems.”
+“Our focus as we close 2026 and enter 2027 is execution,” Amlani concluded. “We need to expand the customers we already have, convert the opportunities we are pursuing, improve the quality and durability of our revenue, and remain disciplined about where we invest.”
+Third Quarter 2026 Financial Results
+Revenue for the quarter was $4.4 million, compared with $5.1 million in the prior-year period.
+Recurring revenue was approximately $4.0 million, compared with approximately $3.6 million in the third quarter of 2025. Recurring revenue includes revenue recognized from subscription, maintenance and recurring usage-based arrangements, and can fluctuate from quarter to quarter based on renewal timing, contract structures, customer activity and the mix of revenue recognized in a given period.
+Operating expenses for the quarter were $5.4 million, compared with $6.4 million in the prior-year period. The year-over-year change reflects spending reductions implemented earlier in 2026. Those actions were intended to reduce Aware’s operating expense base by approximately $4.0 million on an annualized basis, with the third quarter reflecting the first full quarter of those savings.
+Operating loss for the quarter was approximately $0.9 million, compared with operating loss of approximately $1.3 million in the third quarter of 2025.
+Net loss for the quarter was $0.8 million, or $0.04 per diluted share, compared with $1.1 million, or $0.05 per diluted share, in the prior-year period.
+Adjusted EBITDA (a non-GAAP metric reconciled below) loss was $0.5 million, compared with $0.8 million in the prior-year period.
+Nine-Month 2026 Financial Results
+Revenue for the nine months ended September 30, 2026, was $11.1 million, compared with $12.6 million in the prior-year period.
+Recurring revenue was approximately $9.6 million, compared with approximately $9.2 million in the prior-year period.
+Operating expenses for the nine months ended September 30, 2026, were $18.4 million, compared with $17.7 million in the prior-year period. The year-over-year comparison includes one-time severance costs of approximately $0.7 million primarily recognized in the first quarter, as well as higher compensation costs associated with hires made in 2025, partially offset by spending reductions implemented during 2026.
+Net loss for the nine-month period was $6.8 million, or $0.31 per diluted share, compared with $4.4 million, or $0.21 per diluted share, in the prior-year period.
+Adjusted EBITDA loss was $6.1 million, compared with $3.8 million in the prior-year period.
+Aware ended the third quarter with approximately $15.4 million in cash, cash equivalents and marketable securities and no debt.
+Webcast
+Aware management will host a webcast today, October 28, 2026, at 5:00 p.m. Eastern time to discuss these results and provide an update on business conditions. A question-and-answer session will follow management’s prepared remarks.
+Date: Wednesday, October 28, 2026
+Time: 5:00 p.m. Eastern time (2:00 p.m. Pacific time)
+Webcast: Register Here
+The presentation will be made available for replay in the investor relations section of the Company’s website. The audio recording will be available for approximately 90 days following the live event.
+About Aware
+Aware, Inc. (NASDAQ: AWRE) is a proven global leader in biometric orchestration and identity solutions. Its Awareness Platform transforms biometric data into actionable intelligence, empowering organizations to verify identities and prevent fraud with speed, accuracy, and confidence. Designed for mission-critical enterprise environments, the platform delivers intelligent, scalable architecture, real-time insights, and reliable security—ensuring precise identification when every millisecond matters. Aware is headquartered in Burlington, Massachusetts. To learn more, visit our website or follow us on LinkedIn and X.
+Safe Harbor Warning
+Portions of this release contain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements are not statements of historical fact rather they reflect Aware’s current expectations concerning future events and are subject to risks and uncertainties, such as the effectiveness of Aware’s business strategy, pipeline and customer conversion, government funding and procurement, costs savings, operating expenses, revenue mix, financial outlook and the growth of the biometrics markets, including the possibility that government selections, commercial relationships and sales opportunities may not result in anticipated deployments or revenue, and that expected cost savings may not be fully realized or sustained. Aware wishes to caution you that there are factors that could cause actual results to differ materially from the results indicated by such statements. Aware undertakes no obligation to publicly update or revise any forward-looking statements, whether as a result of new information, future events or otherwise. The reader is cautioned not to unduly rely on forward-looking statements when evaluating the information presented in this release.
+Risk factors related to our business include, but are not limited to: i) the changes we are implementing in our business to drive growth in our business may not be successful on the timeline we expect, or at all; ii) our
+operating results may fluctuate significantly and are difficult to predict; iii) we derive a significant portion of our revenue from government customers, and our business may be adversely affected by changes in the contracting or fiscal policies of those governmental entities; iv) a significant commercial market for biometrics technology may not develop, and if it does, we may not be successful in that market; v) we derive a significant portion of our revenue from third party channel partners; vi) the biometrics market may not experience significant growth or our products may not achieve broad acceptance; vii) we face intense competition from other biometrics solution providers; viii) our business is subject to rapid technological change; ix) our software products may have errors, defects or bugs which could harm our business; x) our business may be adversely affected by our use of open source software; xi) we rely on third party software to develop and provide our solutions and significant defects in third party software could harm our business; xii) part of our future business is dependent on market demand for, and acceptance of, the cloud-based model for the use of software; xiii) our operational systems and networks and products may be subject to an increasing risk of continually evolving cybersecurity or other technological risks which could result in the disclosure of company or customer confidential information, damage to our reputation, additional costs, regulatory penalties and financial losses; xiv) our intellectual property is subject to limited protection; xv) we may be sued by third parties for alleged infringement of their proprietary rights; xvi) we must attract and retain key personnel; xvii) our business may be affected by government regulations, government cost cutting initiatives and adverse economic conditions; xviii) we may make acquisitions that could adversely affect our results; xix) we may have additional tax liabilities.
+We refer you to the documents Aware files from time to time with the Securities and Exchange Commission, specifically the section titled Risk Factors in our annual report on Form 10-K for the fiscal year ended December 31, 2025 and other reports and filings made with the Securities and Exchange Commission.
+AWARE, INC.
+CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE LOSS
+(In thousands, except per share data)
+(unaudited)
+Three Months Ended September 30, | Nine Months Ended September 30,
+2026 | 2025 | 2026 | 2025
+Revenue:
+Software licenses | $ | 1,938 | $ | 2,525 | $ | 3,923 | $ | 5,261
+Software maintenance | 2,105 | 2,199 | 6,171 | 6,451
+Services and other | 374 | 405 | 964 | 918
+Total revenue | 4,417 | 5,129 | 11,058 | 12,630
+Costs and expenses:
+Cost of revenue | 439 | 419 | 1,294 | 858
+Research and development | 2,296 | 2,131 | 8,051 | 6,013
+Selling and marketing | 1,148 | 2,103 | 4,357 | 5,730
+General and administrative | 1,474 | 1,771 | 4,686 | 5,136
+Total costs and expenses | 5,357 | 6,424 | 18,388 | 17,737
+Operating loss | (940 | ) | (1,295 | ) | (7,330 | ) | (5,107 | )
+Interest income | 155 | 247 | 531 | 726
+Loss before provision for income taxes | (785 | ) | (1,048 | ) | (6,799 | ) | (4,381 | )
+Provision for income taxes | 6 | 5 | 15 | 39
+Net loss | $ | (791 | ) | $ | (1,053 | ) | $ | (6,814 | ) | $ | (4,420 | )
+Other comprehensive loss income, net of tax:
+Unrealized loss on available-for-sale securities | (60 | ) | (110 | ) | (168 | ) | (63 | )
+Comprehensive loss | $ | (851 | ) | $ | (1,163 | ) | $ | (6,982 | ) | $ | (4,483 | )
+Net loss per share – basic | $ | (0.04 | ) | $ | (0.05 | ) | $ | (0.31 | ) | $ | (0.21 | )
+Net loss per share – diluted | $ | (0.04 | ) | $ | (0.05 | ) | $ | (0.31 | ) | $ | (0.21 | )
+Weighted-average shares – basic | 21,726 | 21,202 | 21,677 | 21,188
+Weighted-average shares – diluted | 21,726 | 21,202 | 21,677 | 21,188
+Prior-period amounts have been reclassified to conform to the current period presentation.
+AWARE, INC.
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(In thousands)
+(unaudited)
+September 30, 2026 | December 31, 2025
+ASSETS
+Cash and cash equivalents | $ | 2,428 | $ | 7,269
+Marketable securities | 12,947 | 15,026
+Accounts and unbilled receivables, net | 5,866 | 4,358
+Property and equipment, net | 326 | 477
+Goodwill and intangible assets, net | 4,422 | 4,689
+Right of use assets | 3,380 | 3,642
+All other assets, net | 1,407 | 1,734
+Total assets | $ | 30,776 | $ | 37,195
+LIABILITIES AND STOCKHOLDERS’ EQUITY
+Accounts payable and accrued expenses | $ | 1,996 | $ | 1,975
+Deferred revenue | 5,006 | 5,115
+Operating lease liability | 3,729 | 3,968
+Total stockholders’ equity | 20,045 | 26,137
+Total liabilities and stockholders’ equity | $ | 30,776 | $ | 37,195
+Non-GAAP Measures
+We define adjusted EBITDA as U.S. GAAP net loss plus depreciation of fixed assets and amortization of intangible assets, stock-based compensation expenses, interest income, and income tax provision. We discuss adjusted EBITDA in our quarterly earnings releases and certain other communications, as we believe adjusted EBITDA is an important measure. We use adjusted EBITDA in internal forecasts and models when establishing internal operating budgets, supplementing the financial results and forecasts reported to our Board of Directors, and evaluating short-term and long-term operating trends in our operations. We believe that the adjusted EBITDA financial measure assists in providing an enhanced understanding of our underlying operational measures to manage the business, to evaluate performance compared to prior periods and the marketplace, and to establish operational goals. We believe that the adjusted EBITDA adjustments are useful to investors because they allow investors to evaluate the effectiveness of the methodology and information used by management in our financial and operational decision-making.
+We define recurring revenue as the portion of Aware revenue that is based on a term arrangement and is likely to continue in the future, such as annual maintenance or subscription contracts. We use recurring revenue as a metric to communicate the portion of our revenue that has greater stability and predictability. We believe that recurring revenue assists in providing an enhanced understanding of the effectiveness of our efforts to transition to a subscription-based business model.
+Adjusted EBITDA and recurring revenue are non-GAAP financial measures and should not be considered in isolation or as a substitute for financial information provided in accordance with U.S. GAAP. These non-GAAP financial measures may not be computed in the same manner as similarly titled measures used by other companies. We expect to continue to incur expenses similar to the financial adjustments described above in arriving at adjusted EBITDA and investors should not infer from our presentation of this non-GAAP financial measure that these costs are unusual, infrequent or non-recurring. The following table includes the reconciliations of our U.S. GAAP net loss, the most directly comparable U.S. GAAP financial measure, to our adjusted EBITDA for the three and nine months ended September 30, 2026 and 2025 and our U.S. GAAP revenue,
+the most directly comparable U.S. GAAP financial measure, to our recurring revenue for the three and nine months ended September 30, 2026 and 2025.
+AWARE, INC.
+Reconciliation of GAAP Net loss to Adjusted EBITDA
+(In thousands)
+(unaudited)
+Three Months Ended | Nine Months Ended
+September 30, | September 30, | September 30, | September 30,
+2026 | 2025 | 2026 | 2025
+Net loss | $ | (791 | ) | $ | (1,053 | ) | $ | (6,814 | ) | $ | (4,420 | )
+Depreciation and amortization | 139 | 143 | 418 | 431
+Stock based compensation | 253 | 342 | 843 | 904
+Interest income | (155 | ) | (247 | ) | (531 | ) | (726 | )
+Provision for income taxes | 6 | 5 | 15 | 39
+Adjusted EBITDA loss | $ | (548 | ) | $ | (810 | ) | $ | (6,069 | ) | $ | (3,772 | )
+AWARE, INC.
+Revenue Breakout
+(In thousands)
+(unaudited)
+Three Months Ended | Nine Months Ended
+September 30, | September 30, | September 30, | September 30,
+2026 | 2025 | 2026 | 2025
+Recurring revenue:
+Software subscriptions | $ | 1,777 | $ | 1,182 | $ | 3,051 | $ | 2,458
+Software maintenance | 2,105 | 2,199 | 6,171 | 6,451
+Services and other | 125 | 174 | 403 | 272
+Total recurring revenue | 4,007 | 3,555 | 9,625 | 9,181
+Non-recurring revenue:
+Software licenses | 161 | 1,343 | 872 | 2,803
+Services and other | 249 | 231 | 561 | 646
+Total non-recurring revenue | 410 | 1,574 | 1,433 | 3,449
+Total revenue | $ | 4,417 | $ | 5,129 | $ | 11,058 | $ | 12,630
+Prior-period amounts have been reclassified to conform to the current period presentation.
+###
+Aware is a registered trademark of Aware, Inc.
