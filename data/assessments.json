@@ -9150,5 +9150,629 @@
     "filing_found": false,
     "recheck": true,
     "assessed_at": "2026-11-06T06:37:57+08:00"
+  },
+  {
+    "accession": "0000766421-26-000046",
+    "cik": "766421",
+    "company": "ALASKA AIR GROUP, INC.",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "Quote is in the release and holds the number; the 10-Q could not be read today (SEC blocked, 403), so no filed figure to compare."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "Quote is in the release and holds the number; the 10-Q could not be read today (SEC blocked, 403), so no filed figure to compare."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "Quote is in the release and holds the number; the 10-Q could not be read today (SEC blocked, 403), so no filed figure to compare."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "Quote is in the release and holds the number; the 10-Q could not be read today (SEC blocked, 403), so no filed figure to compare."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "All four quotes are in the release and hold their numbers. The 10-Q check is still to come (SEC blocked today)."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "All four figures are present, and so is Q4 guidance (adjusted loss per share $2.00 to $2.50)."
+      },
+      "S3": {
+        "score": 4,
+        "reason": "Usable as it stands, with claims and guidance quoted. Filed figures are still unchecked against the 10-Q, so a quick check is wise."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": "4,308 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      },
+      "operating_income": {
+        "extracted": "82 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      },
+      "net_income": {
+        "extracted": "-147 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      },
+      "diluted_eps": {
+        "extracted": "-1.32 USD per share",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "matches",
+        "reason": "Release table: revenue 4,308 vs 3,766 a year ago, up 14.4%, as claimed (14%). 10-Q history not readable today, so no previous-quarter change."
+      },
+      "M2": {
+        "verdict": "matches",
+        "reason": "Operating income fell to 82 from 148 a year ago (margin 1.9% vs 3.9%); aircraft fuel expense rose 60% to 1,214 from 761 (release tables). Numbers fit a weak quarter and a fuel headwind."
+      },
+      "M3": {
+        "verdict": "matches",
+        "reason": "Outlook. Fuel per gallon was $3.94 vs $2.51 a year ago; Q4 is guided at $4.65-$4.85 and an adjusted loss of $2.00-$2.50 a share. Consistent with the latest trend."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "Operating income fell 44.6% on a year ago to 82 and net income was a loss of 147 against a profit of 73; a cautious tone fits."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": 4308,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": 82,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": -147,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": -1.32,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": 1.9034354688950788,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": -3.4122562674094707,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Revenue rose 14% to $4.3 billion on 2.4% capacity growth.",
+        "quote": "Revenue increased 14% year-over-year to $4.3 billion on 2.4% capacity growth",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "The CEO is not satisfied with the quarter and cites a $1.8 billion fuel headwind this year.",
+        "quote": "While we’re not satisfied with this quarter’s result or the $1.8 billion fuel headwind this year",
+        "quote_found": true
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "Elevated fuel costs are expected to remain a significant headwind to near-term profit.",
+        "quote": "Elevated fuel costs are expected to remain a significant headwind to near-term profitability",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "cautious",
+      "reason": "The CEO is not satisfied with the result, and the release expects fuel to remain a headwind and a fourth quarter loss."
+    },
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": true,
+    "assessed_at": "2026-11-07T06:37:50+08:00"
+  },
+  {
+    "accession": "0001605301-26-000042",
+    "cik": "1605301",
+    "company": "CB Financial Services, Inc.",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "The watcher left revenue empty (a bank; no revenue line extracted), and no filed figure could be read today."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "The watcher left operating income empty (a bank), and no filed figure could be read today."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "Quote is in the release and holds the number; the 10-Q could not be read today (SEC blocked, 403), so no filed figure to compare."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "Quote is in the release and holds the number; the 10-Q could not be read today (SEC blocked, 403), so no filed figure to compare."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "Net income and EPS quotes are in the release and hold their numbers. The 10-Q check is still to come (SEC blocked today)."
+      },
+      "S2": {
+        "score": 3,
+        "reason": "Revenue and operating income are empty. For a bank the release gives net interest income, but it has no revenue line; one point off for each, as a careful reader would expect a proxy."
+      },
+      "S3": {
+        "score": 3,
+        "reason": "Net income is saved in USD millions (5.327) from a USD thousands table, which is correct. Revenue and operating income are missing, so the analyst must open the release."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "operating_income": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "net_income": {
+        "extracted": "5.327 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run)."
+      },
+      "diluted_eps": {
+        "extracted": "0.99 USD per share",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run)."
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "matches",
+        "reason": "Release tables: NIM 3.75% vs 3.68% last quarter and 3.64% a year ago; net income 5,327 vs 4,301 last quarter (USD thousands). Both improved. Tested on the release tables."
+      },
+      "M2": {
+        "verdict": "cannot check",
+        "reason": "Noninterest expense was 10,264 vs 10,390 last quarter (down 1.2%) but up 11.8% on a year ago (9,183). Efficiency ratio 64.07% vs 67.01%. 'Aligned with the environment' is not testable."
+      },
+      "M3": {
+        "verdict": "cannot check",
+        "reason": "Outlook on loan payoffs; the fundamentals hold no revenue or operating income for this bank, and the release gives no payoff figures to test it."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "Release tables show NIM and net income up on the previous quarter (3.75% vs 3.68%; 5,327 vs 4,301) and a better efficiency ratio. Expenses rose 11.8% on a year ago."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": 5.327,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": 0.99,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "margins",
+        "claim": "The CEO says net interest margin and earnings improved in the quarter.",
+        "quote": "We delivered solid results for the quarter with improved net interest margin and earnings.",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "The CEO says expenses were kept in line with the operating environment.",
+        "quote": "We also maintained disciplined expense management, keeping our cost structure aligned with the current operating environment.",
+        "quote_found": true
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "Management expects loan payoff activity to moderate in the fourth quarter.",
+        "quote": "we expect payoff activity to moderate in the fourth quarter",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "positive",
+      "reason": "The CEO reports solid results, improved margin and a strong capital position, and looks to build momentum."
+    },
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": true,
+    "assessed_at": "2026-11-07T06:37:50+08:00"
+  },
+  {
+    "accession": "0001193125-26-436941",
+    "cik": "879101",
+    "company": "KIMCO REALTY CORP",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "Quote is in the release and holds the number; the 10-Q could not be read today (SEC blocked, 403), so no filed figure to compare."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "Quote is in the release and holds the number; the 10-Q could not be read today (SEC blocked, 403), so no filed figure to compare."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "Quote is in the release and holds the number; the 10-Q could not be read today (SEC blocked, 403), so no filed figure to compare."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "Quote is in the release and holds the number; the 10-Q could not be read today (SEC blocked, 403), so no filed figure to compare."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "All four quotes are in the release and hold their numbers. Net income 279.074 is before preferred dividends (common: 272.465), which the release table shows. The 10-Q check is still to come."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "All four figures are present, with raised 2026 EPS guidance of $1.07 to $1.09."
+      },
+      "S3": {
+        "score": 4,
+        "reason": "Usable as it stands. The 0.41 EPS is on common shares, but net income is before preferred dividends; the analyst should note the basis."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": "546.147 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run)."
+      },
+      "operating_income": {
+        "extracted": "279.984 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run)."
+      },
+      "net_income": {
+        "extracted": "279.074 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run)."
+      },
+      "diluted_eps": {
+        "extracted": "0.41 USD per share",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403); not asked again in this run)."
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "matches",
+        "reason": "Release table: same property NOI 405,002 vs 386,098 a year ago, up 4.9% as claimed. Tested on the release's own table; the 10-Q is not readable today."
+      },
+      "M2": {
+        "verdict": "matches",
+        "reason": "Outlook. The release table raises 2026 net income per diluted share to $1.07-$1.09 from $1.00-$1.03; same property NOI growth is guided higher too. Consistent with a rising trend (EPS 0.41 vs 0.19)."
+      },
+      "M3": {
+        "verdict": "matches",
+        "reason": "Net income attributable to the company rose to 279.1 from 137.8 a year ago; the release says gains on property sales were 122.4 more. Reported figure, not adjusted. FFO rose less: 0.47 vs 0.44."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "Net income doubled (279.1 vs 137.8), revenue rose 2.0% to 546.1 from 535.9 and operating income rose to 280.0 from 187.2; guidance was raised."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": 546.147,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": 279.984,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": 279.074,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": 0.41,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": 51.26531867793835,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": 51.098696870988945,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "Same property NOI grew 4.9% year over year.",
+        "quote": "Grew same property net operating income* (\"NOI\") 4.9% year-over-year.",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The CEO says the company again raised its full year guidance.",
+        "quote": "This positive momentum allowed us to again raise our full year guidance",
+        "quote_found": true
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "Net income rose, mainly on higher gains on property sales.",
+        "quote": "The year-over-year increase was primarily driven by $122.4 million more of gains on sales of properties, net of impairments.",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "positive",
+      "reason": "The CEO cites record occupancy and strong execution, and the outlook was raised."
+    },
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": true,
+    "assessed_at": "2026-11-07T06:37:50+08:00"
   }
 ]
