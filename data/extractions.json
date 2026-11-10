@@ -660,5 +660,123 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/879101/000119312526436941/kim-ex99_1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/879101/000119312526436941/0001193125-26-436941-index.htm",
     "saved_at": "2026-11-04T06:08:37+08:00"
+  },
+  {
+    "cik": "1456772",
+    "company": "OFFICE PROPERTIES INCOME TRUST",
+    "accession": "0001456772-26-000048",
+    "release_date": "2026-11-09",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 114.165,
+        "unit": "USD millions",
+        "quote": "Rental income $ 114,165 $ 109,127"
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": -45.783,
+        "unit": "USD millions",
+        "quote": "Net loss $ (45,783) $ (66,339)"
+      },
+      "diluted_eps": {
+        "value": -2.09,
+        "unit": "USD per share",
+        "quote": "Per common share amounts (basic and diluted): Net loss $ (2.09) $ (0.90)"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The company reports a net loss of $45.8 million, or $2.09 per common share, for the quarter.",
+        "quote": "Net loss of $45.8 million, or $2.09 per common share."
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "Same property cash basis NOI was $51.5 million, up 14.8% year over year.",
+        "quote": "Same property Cash Basis NOI of $51.5 million, a 14.8% increase year over year."
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The company sold 13 properties in the quarter for an aggregate $143.4 million.",
+        "quote": "Sold 13 properties during the quarter, consisting of approximately 1,538,000 square feet, for an aggregate sales price of $143.4 million, excluding closing costs."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The highlights report a net loss alongside higher same property cash NOI, leasing and property sales, with no outlook."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1456772-0001456772-26-000048.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1456772/000145677226000048/exhibit992opiq32026earni.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1456772/000145677226000048/0001456772-26-000048-index.htm",
+    "saved_at": "2026-11-11T06:14:56+08:00"
+  },
+  {
+    "cik": "1685040",
+    "company": "Brighthouse Financial, Inc.",
+    "accession": "0001685040-26-000035",
+    "release_date": "2026-11-05",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 853,
+        "unit": "USD millions",
+        "quote": "Total revenues | $853 | $1,622 | $1,816"
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": 328,
+        "unit": "USD millions",
+        "quote": "Net income (loss) attributable to Brighthouse Financial, Inc. | 328 | 981 | 479"
+      },
+      "diluted_eps": {
+        "value": 5.21,
+        "unit": "USD per share",
+        "quote": "net income available to shareholders of $302 million in the third quarter of 2026, or $5.21 per diluted share"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Annuity sales were $2.4 billion, flat sequentially but down 12% year over year, on lower fixed annuity sales.",
+        "quote": "Annuity sales decreased 12% quarter-over-quarter and 8% year-to-date, driven by lower fixed annuity sales, partially offset by strong sales of Shield Level Annuities"
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "The annual actuarial review added a net $278 million to net income available to shareholders.",
+        "quote": "This resulted in a net favorable impact to net income available to shareholders of $278 million."
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "Corporate expenses were $204 million, flat on the prior year and the prior quarter.",
+        "quote": "Corporate expenses in the third quarter of 2026 were $204 million, flat compared with the third quarter of 2025 and the second quarter of 2026, all on a pre-tax basis."
+      },
+      {
+        "id": "M4",
+        "topic": "other",
+        "claim": "Regulatory approvals for the Aquarian merger are not expected by the 6 December 2026 outside date, and the parties are discussing an extension.",
+        "quote": "The regulatory review process is ongoing, and the necessary regulatory approvals are not expected to be received in time to complete the merger by the Outside Date."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The release reports lower net income and annuity sales, flat expenses, a capital ratio within target and a delayed merger timetable."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1685040-0001685040-26-000035.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1685040/000168504026000035/q32026bhfearningspressrele.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1685040/000168504026000035/0001685040-26-000035-index.htm",
+    "saved_at": "2026-11-11T06:14:56+08:00"
   }
 ]
