@@ -1,0 +1,137 @@
+Company: Seer, Inc. (CIK 1726445)
+Accession: 0001193125-26-455529
+Results released: 2026-11-10
+Press release: https://www.sec.gov/Archives/edgar/data/1726445/000119312526455529/ck0001726445-ex99_1.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1726445/000119312526455529/0001193125-26-455529-index.htm
+Saved: 2026-11-13T06:07:47+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 ck0001726445-ex99_1.htm EX-99.1
+Seer Reports Third Quarter 2026 Financial Results and Updates Full Year 2026 Revenue Guidance
+REDWOOD CITY, Calif. – November 10, 2026 – Seer, Inc. (Nasdaq: SEER) (“Seer” or the “Company”), the pioneer and trusted partner for deep, unbiased proteomic insights, today announced financial results for the quarter ended September 30, 2026.
+Seer reported third-quarter revenue of $4.0 million, compared with $3.1 million in the second quarter of 2026, and ended the quarter with approximately $198.1 million in cash, cash equivalents and investments. Seer also updated its full-year 2026 revenue guidance to a range of $13.5 million to $14.5 million.
+“This quarter, our customers continued to demonstrate what Proteograph makes possible, from new discoveries in population-scale research to emerging applications in AI, while established customers returned to purchase consumables and new pharmaceutical customers adopted the platform,” said Omid Farokhzad, Chair and Chief Executive Officer. “Proteograph fundamentally expands the biology researchers can see with mass spectrometry. Our focus is to translate that differentiated value into sustained revenue growth by expanding sample volume within customer accounts and building relationships that support repeat use. With a strong balance sheet and growing evidence of the platform’s value, I remain confident in Seer’s opportunity and committed to building long-term value for our shareholders.”
+Recent Business and Corporate Highlights
+•
+Established customers continued to purchase consumables, including accounts with purchases across multiple consecutive quarters. Several new large pharmaceutical customers purchased instruments and consumables this year, supporting opportunities for larger studies and broader use within customer accounts.
+•
+Announced on October 29 that the Special Committee of Seer’s Board of Directors completed its review and Seer will remain an independent public company, reinforcing the Company’s continued commitment to innovation, service and customer support.
+•
+Announced on November 5 that, following Nanomics Biotechnology Co., Ltd.’s withdrawal from defending the U.S. International Trade Commission (“ITC”) investigation brought by Seer and Brigham and Women’s Hospital, the ITC’s investigative staff recommended granting the full exclusion and cease-and-desist orders requested. The Commission’s final determination remains pending and is expected by year-end.
+Scientific Highlights
+•
+Publications, preprints and reviews describing research conducted using Proteograph reached 116, up from 95 at the last quarterly update, highlighting the discoveries researchers are advancing across a broad range of applications.
+•
+PRECISE-SG100K investigators presented preliminary findings at HUPO 2026 from 9,658 plasma samples. Using Proteograph with Thermo Fisher’s Orbitrap Astral mass spectrometer, they quantified approximately 8,800 protein groups across the study and 88,000 peptides per sample.
+•
+Proteograph’s nanoparticle enrichment substantially expands the plasma proteome available for discovery. Published studies and customer presentations using matched plasma samples have repeatedly shown that conventional mass spectrometry workflows without Proteograph achieve approximately 10–15% of the protein coverage achieved with Proteograph. The Proteograph makes thousands of additional proteins accessible for biological investigation.
+•
+PRECISE investigators identified more than 4,200 proteins with significant associations between nearby genetic variation and protein abundance, or cis-pQTLs. They reported 2,762 genetic–protein associations not previously reported across 12 reference studies and linked proteins to 71 health-related traits, illustrating the discovery potential of deep proteomics at population scale.
+•
+In an independent study published in Clinical Proteomics, CHA University researchers compared seven plasma preparation approaches. Proteograph XT delivered the greatest coverage, averaging approximately 6,060 proteins per sample, and the lowest rate of missing protein measurements, at 1.9%.
+•
+Korea University Professors Sang-Won Lee and Jaewoo Kang presented preliminary findings from more than 5,500 plasma samples at ASMS and HUPO 2026. Their ID-Free AI Proteomics approach used identified and unidentified spectral signals generated with Proteograph and mass spectrometry, improving overall cancer-classification performance compared with models using identified-peptide features alone.
+Third Quarter 2026 Financial Results
+Revenue was $4.0 million for the third quarter of 2026, compared with $3.1 million in the second quarter of 2026 and $4.1 million in the third quarter of 2025. Revenue decreased 3% from the prior-year period. Product revenue was $2.8 million, consisting of sales of Proteograph instruments and consumable kits. Service revenue was $1.1 million, related party revenue was $0.1 million, and other revenue was approximately $67,000.
+Gross profit was $1.9 million and gross margin was 47% for the third quarter of 2026.
+Operating expenses were $16.5 million for the third quarter of 2026, including $1.2 million in stock-based compensation, compared with $21.5 million for the corresponding prior-year period, including $3.6 million in stock-based compensation. Operating expenses decreased 23%, primarily reflecting lower employee compensation expenses, including stock-based compensation.
+Net loss was $13.7 million for the third quarter of 2026, compared with $18.2 million for the corresponding prior-year period.
+For the nine months ended September 30, 2026, net cash used in operating activities was approximately $34.5 million. After deducting approximately $311,000 of net purchases of property and equipment, free cash flow was approximately negative $34.8 million. Free cash flow is a non-GAAP financial measure, defined as net cash used in operating activities less net purchases of property and equipment.
+Cash, cash equivalents and investments were approximately $198.1 million as of September 30, 2026.
+Capital Allocation
+Through September 30, 2026, Seer had repurchased approximately 13.5 million Class A common shares at a weighted average price of $1.85 per share, using approximately $25 million of the combined $50 million authorized by the Board in May 2024 and February 2026. Approximately $25 million remained available under those authorizations. During the third quarter, the Company repurchased approximately 61,000 shares at a weighted-average price of $1.64 per share.
+Seer’s capital allocation approach combines investment in commercial adoption and product innovation with disciplined spending and share repurchases. Based on its current operating plan, the Company believes it has sufficient capital to reach cash flow breakeven.
+2026 Guidance
+Seer now expects full-year 2026 revenue to be in the range of $13.5 million to $14.5 million, compared with the prior range of $16 million to $18 million. Continued pressure on academic and government funding has extended sales cycles, and several late-stage opportunities are now expected to close later than planned.
+Webcast Information
+Seer will host a conference call to discuss the third quarter 2026 financial results on Tuesday, November 10, 2026, at 1:30 pm Pacific Time / 4:30 pm Eastern Time. A webcast of the conference call can be accessed at https://investor.seer.bio. The webcast will be archived and available for replay for at least 90 days after the event.
+About Seer, Inc.
+Seer, Inc. (Nasdaq: SEER) sets the standard in deep, unbiased proteomics, delivering insights with scale, speed, precision and reproducibility previously unattainable. Seer’s Proteograph® Product Suite integrates proprietary engineered nanoparticles, streamlined automation instrumentation, optimized consumables and advanced analytical software to overcome the limitations of traditional proteomic methods. Seer’s products are for research use only and are not intended for diagnostic procedures. For more information, visit www.seer.bio.
+For more information, please email us at pr@seer.bio.
+Forward Looking Statements
+This communication contains “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995, as amended. Such forward-looking statements are based on Seer’s beliefs and assumptions and on information currently available to it on the date of this press release. Forward-looking statements may involve known and unknown risks, uncertainties and other factors that may cause Seer’s actual results, performance, or achievements to be materially different from those expressed or implied by the forward-looking statements. These statements include but are not limited to statements regarding Seer’s revenue guidance; the adoption and use of Seer’s products; expansion within customer accounts, sample volumes, repeat purchases and revenue growth; anticipated sample shipments under customer agreements; the potential applications of proteomic data in AI-driven research; capital allocation, share repurchases and the sufficiency of capital to reach cash flow breakeven under the current operating plan; and the enforcement of intellectual property rights, including the expected timing and outcome of the ITC proceeding. These and other risks are described more fully in Seer’s filings with the Securities and Exchange Commission (“SEC”) and other documents that Seer subsequently files with the SEC from time to time. Except to the extent required by law, Seer undertakes no obligation to update such statements to reflect events that occur or circumstances that exist after the date on which they were made.
+Media Contact:
+Patrick Schmidt
+pr@seer.bio
+Investor Contact:
+Marissa Bych
+investor@seer.bio
+SEER, INC.
+Condensed Consolidated Statements of Operations and Comprehensive Loss
+(Unaudited)
+(in thousands, except share and per share amounts)
+Three Months Ended September 30, | Nine Months Ended September 30,
+2026 | 2025 | 2026 | 2025
+Revenue:
+Product | $ | 2,760 | $ | 2,756 | $ | 7,193 | $ | 8,372
+Service | 1,064 | 913 | 2,283 | 2,913
+Related party | 90 | 300 | 146 | 761
+Other | 67 | 152 | 254 | 331
+Total revenue | 3,981 | 4,121 | 9,876 | 12,377
+Cost of revenue:
+Product | 1,411 | 1,327 | 3,817 | 3,868
+Service | 392 | 335 | 909 | 1,261
+Related party | 82 | 85 | 88 | 224
+Other | 217 | 264 | 695 | 742
+Total cost of revenue | 2,102 | 2,011 | 5,509 | 6,095
+Gross profit | 1,879 | 2,110 | 4,367 | 6,282
+Operating expenses:
+Research and development | 6,439 | 10,797 | 23,454 | 34,132
+Selling, general and administrative | 10,107 | 10,659 | 29,677 | 32,757
+Total operating expenses | 16,546 | 21,456 | 53,131 | 66,889
+Loss from operations | (14,667 | ) | (19,346 | ) | (48,764 | ) | (60,607 | )
+Other income (expense):
+Interest income | 1,961 | 2,765 | 6,238 | 8,974
+Loss on equity method investment | (1,392 | ) | (1,419 | ) | (5,208 | ) | (4,835 | )
+Other income (expense) | 365 | (210 | ) | 284 | (965 | )
+Total other income | 934 | 1,136 | 1,314 | 3,174
+Loss before provision for income taxes | (13,733 | ) | (18,210 | ) | (47,450 | ) | (57,433 | )
+Provision for income taxes | 5 | 24 | 24 | 173
+Net loss | $ | (13,738 | ) | $ | (18,234 | ) | $ | (47,474 | ) | $ | (57,606 | )
+Other comprehensive loss:
+Unrealized gain (loss) on available-for-sale securities | (410 | ) | 124 | (1,205 | ) | 295
+Comprehensive loss | $ | (14,148 | ) | $ | (18,110 | ) | $ | (48,679 | ) | $ | (57,311 | )
+Net loss per share attributable to Class A and Class B common stockholders, basic and diluted | $ | (0.25 | ) | $ | (0.32 | ) | $ | (0.85 | ) | $ | (0.99 | )
+Weighted-average shares used in computing net loss per share attributable to Class A and Class B common stockholders, basic and diluted | 55,562,071 | 56,312,290 | 55,572,439 | 57,928,898
+SEER, INC.
+Condensed Consolidated Balance Sheets
+(Unaudited)
+(in thousands, except share and per share amounts)
+September 30, 2026 | December 31, 2025
+ASSETS
+Current assets:
+Cash and cash equivalents | $ | 29,316 | $ | 47,285
+Short-term investments | 126,581 | 138,612
+Accounts receivable, net | 2,717 | 4,282
+Related party receivables | 146 | 300
+Other receivables | 964 | 1,370
+Inventory | 6,396 | 7,795
+Prepaid expenses and other current assets | 1,777 | 1,890
+Total current assets | 167,897 | 201,534
+Long-term investments | 42,190 | 54,686
+Operating lease right-of-use assets | 18,663 | 20,488
+Property and equipment, net | 11,031 | 14,754
+Restricted cash | 524 | 524
+Other assets | 1,494 | 4,097
+Total assets | $ | 241,799 | $ | 296,083
+LIABILITIES AND STOCKHOLDERS’ EQUITY
+Current liabilities:
+Accounts payable | $ | 2,583 | $ | 5,611
+Accrued expenses | 4,070 | 7,135
+Deferred revenue | 482 | 341
+Operating lease liabilities, current | 2,786 | 2,575
+Other current liabilities | 21 | 29
+Total current liabilities | 9,942 | 15,691
+Operating lease liabilities, net of current portion | 18,956 | 21,077
+Other noncurrent liabilities | 10 | 8
+Total liabilities | 28,908 | 36,776
+Commitments and contingencies
+Stockholders’ equity:
+Preferred stock, $0.00001 par value; 5,000,000 shares authorized as of September 30, 2026 and December 31, 2025; zero shares issued and outstanding as of September 30, 2026 and December 31, 2025 | — | —
+Class A common stock, $0.00001 par value; 94,000,000 shares authorized as of September 30, 2026 and December 31, 2025; 55,809,767 and 56,219,599 shares issued and outstanding as of September 30, 2026 and December 31, 2025, respectively | 1 | 1
+Class B common stock, $0.00001 par value; 134,268 shares authorized as of September 30, 2026 and December 31, 2025; zero shares issued and outstanding as of September 30, 2026 and December 31, 2025 | — | —
+Additional paid-in capital | 727,082 | 724,819
+Accumulated other comprehensive gain (loss) | (746 | ) | 459
+Accumulated deficit | (513,446 | ) | (465,972 | )
+Total stockholders’ equity | 212,891 | 259,307
+Total liabilities and stockholders’ equity | $ | 241,799 | $ | 296,083
