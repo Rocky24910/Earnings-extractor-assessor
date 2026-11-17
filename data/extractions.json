@@ -903,5 +903,123 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1726445/000119312526455529/ck0001726445-ex99_1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1726445/000119312526455529/0001193125-26-455529-index.htm",
     "saved_at": "2026-11-13T06:07:47+08:00"
+  },
+  {
+    "cik": "1162896",
+    "company": "Prairie Operating Co.",
+    "accession": "0001162896-26-000013",
+    "release_date": "2026-11-12",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 129.502,
+        "unit": "USD millions",
+        "quote": "Crude oil, natural gas, and NGL revenues | $ | 129,502"
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": -48.934,
+        "unit": "USD millions",
+        "quote": "Net (loss) income attributable to Prairie Operating Co. | (48,934"
+      },
+      "diluted_eps": {
+        "value": -0.28,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | (0.28"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says sales volumes rose 21% from the prior quarter and drove revenue up 31% to $129.5 million.",
+        "quote": "Average daily sales volumes increased 21% from the prior quarter to 2.4 MMboe or 26,117 Boe per day, driving revenue growth of 31% from the prior quarter to $129.5 million."
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "The CEO says lease operating expense per Boe fell 17% from the prior quarter.",
+        "quote": "We achieved that growth while reducing lease operating expense per Boe by 17% from the prior quarter, reflecting our continued focus on improving well performance and operating efficiency."
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "The CFO says Adjusted EBITDA was $65.3 million, up 92% from the prior quarter.",
+        "quote": "Prairie generated $65.3 million of Adjusted EBITDA in the third quarter, an increase of 92% from the prior quarter, as sales volumes increased and unit operating costs declined."
+      },
+      {
+        "id": "M4",
+        "topic": "other",
+        "claim": "The CFO says the company continues to look at refinancing the remaining Series F preferred stock.",
+        "quote": "We continue to evaluate opportunities to refinance the remaining Series F preferred stock as part of our broader effort to strengthen Prairie’s balance sheet"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO says the results show the strength of the assets and speaks of greater confidence in the opportunities ahead."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1162896-0001162896-26-000013.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1162896/000116289626000013/ef20084670_ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1162896/000116289626000013/0001162896-26-000013-index.htm",
+    "saved_at": "2026-11-18T06:07:53+08:00"
+  },
+  {
+    "cik": "1716947",
+    "company": "Ensysce Biosciences, Inc.",
+    "accession": "0001493152-26-051414",
+    "release_date": "2026-11-12",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": {
+        "value": -82.496161,
+        "unit": "USD millions",
+        "quote": "Loss from operations | (82,496,161"
+      },
+      "net_income": {
+        "value": -82.113583,
+        "unit": "USD millions",
+        "quote": "Net loss | $ | (82,113,583"
+      },
+      "diluted_eps": {
+        "value": -4.52,
+        "unit": "USD per share",
+        "quote": "Net loss per share attributable to common stockholders, basic and diluted | $ | (4.52"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "The CEO says the company is fundamentally different from the start of the year, now led by CY200 for CRPS.",
+        "quote": "Ensysce is a fundamentally different company today than it was at the start of the year"
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The CEO says the focus now is on starting the CY200 Phase 2a study and meeting the milestones ahead.",
+        "quote": "With a strengthened balance sheet and two differentiated pain programs, our focus now is on initiating the CY200 Phase 2a study and delivering on the milestones ahead."
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "The company expects its research and development work to bring losses for the foreseeable future.",
+        "quote": "As a clinical-stage biotech company, Ensysce expects its continued research and development efforts toward regulatory approval of its product candidates to result in losses for the foreseeable future."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the company fundamentally different and speaks of a strengthened balance sheet, while the release expects losses to continue."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1716947-0001493152-26-051414.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1716947/000149315226051414/ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1716947/000149315226051414/0001493152-26-051414-index.htm",
+    "saved_at": "2026-11-18T06:07:53+08:00"
   }
 ]

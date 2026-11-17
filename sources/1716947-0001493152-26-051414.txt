@@ -1,0 +1,103 @@
+Company: Ensysce Biosciences, Inc. (CIK 1716947)
+Accession: 0001493152-26-051414
+Results released: 2026-11-12
+Press release: https://www.sec.gov/Archives/edgar/data/1716947/000149315226051414/ex99-1.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1716947/000149315226051414/0001493152-26-051414-index.htm
+Saved: 2026-11-18T06:07:53+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 ex99-1.htm EX-99.1
+Exhibit 99.1
+Ensysce Biosciences Reports Third Quarter 2026 Financial Results and Business Highlights
+~ Completed Acquisition of Cy Biopharma, Adding Lead Pipeline Asset CY200 for Complex Regional Pain Syndrome ~
+~ Submitted Phase 2a Protocol for CY200 to the UK’s Medicines and Healthcare products Regulatory Agency (MHRA) ~
+~ Completed Enrollment in Final Stage of the PF614-MPAR-102 Study ~
+~ Ended the third quarter 2026 with $29.7 Million of Cash and Cash Equivalents ~
+SAN DIEGO, CA / November 12, 2026 / Ensysce Biosciences, Inc. (NASDAQ: ENSC) (“Ensysce” or the “Company”), a clinical-stage biotechnology company developing innovative neuroplastogenic therapies beyond mood disorders, with an initial focus on Complex Regional Pain Syndrome (“CRPS”), today reported financial and operational results for the third quarter ended September 30, 2026.
+The third quarter of 2026 was a transformational period for Ensysce. In August, the Company completed the acquisition of Cy Biopharma, Inc. (“Cy Biopharma”), adding CY200, a clinical-stage neuroplastogenic candidate for CRPS whose active ingredient has received FDA Orphan Drug Designation, as its lead pipeline asset, and in September submitted the protocol for a Phase 2a study of CY200 to the UK Medicines and Healthcare products Regulatory Agency (MHRA). Ensysce also completed enrollment in the final stage of the PF614-MPAR-102 study of its Breakthrough Therapy-designated, overdose-protected opioid. The Company ended the quarter with $29.7 million in cash and cash equivalents.
+“Ensysce is a fundamentally different company today than it was at the start of the year,” said Dr. Lynn Kirkpatrick, Chief Executive Officer of Ensysce. “With CY200, we now lead with a potentially first-in-class approach to CRPS, a devastating condition for which there is currently no FDA-approved therapy. At the same time, completing enrollment in PF614-MPAR-102 brings us closer to the clinical evidence needed to advance what we believe is the first opioid engineered with built-in overdose protection. With a strengthened balance sheet and two differentiated pain programs, our focus now is on initiating the CY200 Phase 2a study and delivering on the milestones ahead.”
+CY200 and Complex Regional Pain Syndrome (CRPS) Program Update
+CY200 is a psilocybin-predominant botanical extract being developed for CRPS. Its development follows an observational pilot study of psilocybin in patients with CRPS and other chronic pain conditions that was funded by Cy Biopharma. CRPS is among the most severe chronic pain disorders, with significant physical, psychological and socioeconomic burden, and no FDA-approved therapy. CY200 is designed to address the underlying neurobiology of the condition rather than simply manage symptoms.
+In September 2026, the Company submitted a Phase 2a protocol (CYBIO 001) in the UK for combined MHRA and research ethics committee reviews. CYBIO 001 is a multicenter, randomized, double-blind, placebo-controlled, parallel-group, proof-of-concept study that will evaluate the efficacy, safety and tolerability of CY200 compared to placebo in adult participants with CRPS Type 1 and will be conducted in the UK.
+On November 6, 2026, the MHRA and the research ethics committee reviewing the CY200 Phase 2a clinical trial protocol requested additional information to support the Company’s clinical trial application. The Company is preparing its response for the MHRA’s consideration.
+“Our priority since the acquisition has been to advance CY200 efficiently, and submitting the CYBIO 001 protocol to the MHRA in September was a significant first step,” said James Morrison, President of Ensysce. “Patients with CRPS have very few treatment options. Our focus now is on preparing our sites and clinical team so we are ready to commence enrollment as soon as practicable once we receive regulatory clearance in the UK.”
+The Company intends to apply proceeds from recent private placement financings primarily to advance CY200 through this study and to prepare for registrational development. Also in September 2026, the Company hosted a clinical symposium on severe pain and CRPS at PainWeek 2026. Additionally, Professor Richard Langford, Chief Medical Officer of Cy Biopharma, was selected to present comments at the FDA’s public hearing, “Considerations for Potential Future Therapeutic Use of Psychedelic Drugs.”
+TAAP™ and MPAR® (Opioid Abuse Deterrent and Overdose Protection Programs) Update
+Trypsin-Activated Abuse Protection (TAAP™) PF614 is designed to be a next-generation extended-release oxycodone with built-in abuse protection. PF614 remains inactive until it is swallowed and exposed to trypsin in the small intestine, where it “switches on” to release oxycodone in a controlled manner, designed to reduce the potential for abuse through non-oral routes such as injection and snorting. Development of PF614 continues in the pivotal PF614-301 Phase 3 trial, a multicenter, randomized, double-blind, placebo-controlled study evaluating PF614 for the treatment of moderate to severe pain following abdominoplasty.
+PF614-MPAR, which combines the active analgesic, TAAP™ PF614, with the Company’s MPAR® (Multi-Pill Abuse Resistance) technology and has received FDA Breakthrough Therapy designation, is designed to deliver effective opioid analgesia with built-in protection against oral overdose. In August 2026, Ensysce completed enrollment in Part 3, the final stage of the PF614-MPAR-102 study. Part 3 was designed to further characterize PF614-MPAR’s protective profile across a full range of dosing scenarios and to evaluate the effect of food on the delivery of analgesia and overdose protection. The study is funded through the Company’s $15.1 million multi-year NIDA award, under which $2.7 million remained available as of September 30, 2026, to support completion of the study and the long-term non-clinical studies required for an eventual New Drug Application.
+Q3 2026 Financial Results
+Cash - Cash and cash equivalents were $29.7 million as of September 30, 2026, compared to $4.3 million as of December 31, 2025. The increase reflects $21.1 million of net cash provided by financing activities, primarily $19.6 million of net proceeds from the Series C private placement. Also contributing to the increase was $11.4 million of net cash acquired from Cy Biopharma, partially offset by operating activities which used $6.9 million of cash during the first nine months of 2026.
+Federal Grants - Funding under federal grants totaled $2.2 million for the third quarter of 2026 compared to $0.5 million in the comparable year-ago quarter. This $1.7 million increase is primarily due to the timing of research activities eligible for funding under the MPAR grant, including the PF614-MPAR-102 study.
+Research & Development Expenses - R&D expenses were $3.2 million for the third quarter of 2026 compared to $3.0 million for the same period in 2025, representing an increase of $0.2 million. The increase was driven by incremental expenses from the Cy Biopharma acquisition.
+General & Administrative Expenses - G&A expenses were $1.6 million in the third quarter of 2026 and $1.3 million for the third quarter of 2025, representing an increase of $0.3 million, primarily due to incremental expenses from the Cy Biopharma acquisition.
+Acquired In-Process Research and Development – The acquisition of Cy Biopharma in August 2026 resulted in a one-time non-cash charge of approximately $79.9 million for acquired in-process research and development (“IPR&D”) related to the value of research programs under development, primarily CY200.
+Other Income (Expense) - Total other income (expense) was income of $0.4 million for the third quarter of 2026 compared to income of less than $0.1 million in the same period of 2025. Total other income (expense) for the quarter ended September 30, 2026, consisted primarily of foreign exchange gains at the Company’s foreign subsidiaries acquired in the Cy Biopharma acquisition.
+Net Income (Loss) - Net loss attributable to common stockholders for the third quarter of 2026 was $82.3 million compared to a net loss of $3.7 million for the third quarter of 2025. Net loss attributable to common stockholders for the third quarter of 2026 includes the non-cash acquired IPR&D charge of approximately $79.9 million and a $0.2 million deemed dividend related to the retirement of the Series B Preferred Stock. As a clinical-stage biotech company, Ensysce expects its continued research and development efforts toward regulatory approval of its product candidates to result in losses for the foreseeable future.
+About Ensysce Biosciences
+Ensysce Biosciences is a clinical-stage biotechnology company developing novel neuroplastogenic therapies using psychedelics that go beyond mood disorders and address the root cause of chronic pain through central nervous system modulation. The Company is also developing a new class of highly novel opioids for the treatment of severe pain while minimizing the risk of both drug abuse and overdose. For more information, please visit www.ensysce.com.
+Definitions
+CRPS: complex regional pain syndrome - a severe chronic pain disorder for which there is currently no approved therapy.
+TAAP™: trypsin activated abuse protection - designed to protect against prescription drug abuse.
+MPAR®: multi-pill abuse resistance - designed to protect against abuse and accidental overdose.
+Forward-Looking Statements
+Statements contained in this press release that are not purely historical may be deemed to be forward-looking statements for the purposes of the safe harbor provisions under The Private Securities Litigation Reform Act of 1995 and other federal securities laws. Without limiting the foregoing, the use of words such as “may,” “intends,” “might,” “will,” “expect,” “plan,” “possible,” “believe” and other similar expressions are intended to identify forward-looking statements. All forward-looking statements are based upon management’s estimates and forecasts and reflect the current views, assumptions, expectations and opinions of the Company as of the date hereof. All forward-looking statements are subject to risks and uncertainties that may cause actual results to differ materially from those expected, including (i) possible Nasdaq delisting; (ii) failure to obtain stockholder approval for the conversion of the Series C non-voting convertible preferred stock into shares of common stock of the combined company; (iii) risks related to the combined company’s ability to manage its operating expenses and its expenses associated with the acquisition; (iv) unexpected costs, charges or expenses resulting from the acquisition; (v) potential adverse reactions or changes to business relationships resulting from the announcement or completion of the acquisition; (vi) the uncertainties associated with the combined company’s product candidates, as well as risks associated with the clinical development and regulatory approval of product candidates, including potential delays in the commencement and completion of clinical trials, studies and evaluations (including in connection with the MHRA’s request for additional information on the CY200 Phase 2a clinical trial application); (vii) risks related to the inability of the combined company to obtain sufficient additional capital, including the continuation of government funding, to continue to advance these or other product candidates; (viii) failure to achieve the clinical trial milestone for the milestone closing of the Series C private placement; (ix) uncertainties in obtaining successful clinical results for product candidates and unexpected costs that may result therefrom; (x) risks related to the failure to realize any value from product candidates currently being developed and anticipated to be developed in light of inherent risks and difficulties involved in successfully bringing product candidates to market; and (xi) risks associated with the possible failure to realize certain anticipated benefits of the acquisition, including with respect to future financial and operating results. These statements are also subject to risks and uncertainties described in Ensysce’s most recent annual report on Form 10-K and quarterly report on Form 10-Q and in other filings that it makes with the U.S. Securities and Exchange Commission (the “SEC”), available at www.sec.gov. Any forward-looking statement speaks only as of the date on which it was made. Ensysce undertakes no obligation to publicly update or revise any forward-looking statement, except as required under applicable law.
+Ensysce Biosciences Company Contact:
+Lynn Kirkpatrick, Ph.D.
+Chief Executive Officer
+(858) 263-4196
+Ensysce Biosciences Investor Relations Contact:
+Shannon Devine
+MZ North America
+Main: 203-741-8811
+ENSC@mzgroup.us
+Ensysce Biosciences, Inc.
+Condensed Consolidated Statements of Operations
+(Unaudited)
+Three Months Ended September 30, | Nine Months Ended September 30,
+2026 | 2025 | 2026 | 2025
+Federal grants | $ | 2,181,632 | $ | 493,104 | $ | 4,306,945 | $ | 3,184,314
+Operating expenses:
+Research and development | 3,175,848 | 2,954,909 | 8,994,480 | 6,763,866
+General and administrative | 1,594,722 | 1,279,290 | 4,040,022 | 3,879,569
+Acquired in-process research and development | 79,907,223 | — | 79,907,223 | —
+Total operating expenses | 84,677,793 | 4,234,199 | 92,941,725 | 10,643,435
+Loss from operations | (82,496,161 | ) | (3,741,095 | ) | (88,634,780 | ) | (7,459,121 | )
+Total other income (expense), net | 382,578 | 11,967 | 393,907 | 50,903
+Net loss | $ | (82,113,583 | ) | $ | (3,729,128 | ) | $ | (88,240,873 | ) | $ | (7,408,218 | )
+Adjustments to net loss | (204,539 | ) | — | (204,373 | ) | 166
+Net loss attributable to common stockholders | $ | (82,318,122 | ) | $ | (3,729,128 | ) | $ | (88,445,246 | ) | $ | (7,408,052 | )
+Net loss per share attributable to common stockholders, basic and diluted | $ | (4.52 | ) | $ | (1.29 | ) | $ | (6.95 | ) | $ | (3.42 | )
+Ensysce Biosciences, Inc.
+Condensed Consolidated Statements of Cash Flows
+(Unaudited)
+Nine Months Ended September 30,
+2026 | 2025
+Net cash used in operating activities | $ | (6,859,977 | ) | $ | (6,280,459 | )
+Net cash provided by (used in) investing activities | 11,392,335 | (123,643 | )
+Net cash provided by financing activities | 21,065,072 | 4,575,243
+Effect of exchange rate changes on cash and cash equivalents | (236,991 | ) | –
+Change in cash and cash equivalents | 25,360,439 | (1,828,859 | )
+Cash and cash equivalents at beginning of period | 4,310,354 | 3,502,077
+Cash and cash equivalents at end of period | $ | 29,670,793 | $ | 1,673,218
+Ensysce Biosciences, Inc.
+Condensed Consolidated Balance Sheets
+(Unaudited)
+September 30, | December 31,
+2026 | 2025
+Assets
+Current assets:
+Cash and cash equivalents | $ | 29,670,793 | $ | 4,310,354
+Prepaid expenses and other current assets | 1,126,309 | 2,934,664
+Total current assets | 30,797,102 | 7,245,018
+Other assets | 156,279 | 207,461
+Total assets | $ | 30,953,381 | $ | 7,452,479
+Liabilities and stockholders’ equity
+Current liabilities:
+Accounts payable | $ | 2,033,669 | $ | 3,267,610
+Accrued expenses and other liabilities | 1,653,060 | 993,411
+Notes payable and accrued interest | 154,874 | 306,708
+Total current liabilities | 3,841,603 | 4,567,729
+Long-term liabilities | — | —
+Total liabilities | 3,841,603 | 4,567,729
+Stockholders’ equity | 27,111,778 | 2,884,750
+Total liabilities and stockholders’ equity | $ | 30,953,381 | $ | 7,452,479
