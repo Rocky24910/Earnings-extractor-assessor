@@ -1021,5 +1021,124 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1716947/000149315226051414/ex99-1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1716947/000149315226051414/0001493152-26-051414-index.htm",
     "saved_at": "2026-11-18T06:07:53+08:00"
+  },
+  {
+    "cik": "354950",
+    "company": "HOME DEPOT, INC.",
+    "accession": "0000354950-26-000184",
+    "release_date": "2026-11-17",
+    "period_end": "2026-11-01",
+    "period_label": "quarter ended 1 November 2026",
+    "figures": {
+      "revenue": {
+        "value": 43398,
+        "unit": "USD millions",
+        "quote": "Net sales | $ | 43,398"
+      },
+      "operating_income": {
+        "value": 5479,
+        "unit": "USD millions",
+        "quote": "Operating income | 5,479"
+      },
+      "net_income": {
+        "value": 3713,
+        "unit": "USD millions",
+        "quote": "Net earnings | $ | 3,713"
+      },
+      "diluted_eps": {
+        "value": 3.72,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share | $ | 3.72"
+      }
+    },
+    "guidance": {
+      "text": "For fiscal 2026 the company expects total sales growth of approximately 4.5%.",
+      "quote": "Total sales growth of approximately 4.5%"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Third-quarter results were better than management expected.",
+        "quote": "Results in the third quarter exceeded our expectations."
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "The incoming CEO says the company grew its market share in a dynamic environment.",
+        "quote": "Our associates’ strong engagement and exceptional execution, combined with our continued investments across the business, enabled us to grow market share in a dynamic environment"
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The company updated its fiscal 2026 guidance, with diluted EPS expected to grow about 1.5% from fiscal 2025.",
+        "quote": "Diluted earnings-per-share to grow approximately 1.5% from $14.23 in fiscal 2025"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The incoming CEO says results exceeded expectations and that the company grew market share, while calling the environment dynamic."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/354950-0000354950-26-000184.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/354950/000035495026000184/hd_exhibit991x11012026.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/354950/000035495026000184/0000354950-26-000184-index.htm",
+    "saved_at": "2026-11-19T06:08:00+08:00"
+  },
+  {
+    "cik": "1574235",
+    "company": "Pulmatrix, Inc.",
+    "accession": "0001493152-26-052739",
+    "release_date": "2026-11-17",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": {
+        "value": -1.221,
+        "unit": "USD millions",
+        "quote": "Loss from operations | (1,221 | )"
+      },
+      "net_income": {
+        "value": -1.213,
+        "unit": "USD millions",
+        "quote": "Net loss | $ | (1,213 | )"
+      },
+      "diluted_eps": {
+        "value": -0.34,
+        "unit": "USD per share",
+        "quote": "Net loss per share attributable to common stockholders – basic and diluted | $ | (0.34 | )"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "The interim CEO says the focus has been on completing the merger with Eos SENOLYTIX, which is expected to close by the end of the year.",
+        "quote": "We anticipate closing the proposed merger by the end of the year."
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "General and administrative expenses rose by about $0.4 million to $1.2 million, mainly because of merger-related work.",
+        "quote": "The increase was primarily due to merger-related activities, including legal and professional services."
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The company expects its cash to fund operations at least until the merger closes.",
+        "quote": "The Company anticipates that its cash position, based on current operational efficiencies and prioritization of spending, is sufficient to fund its operations at least through the anticipated closing of the proposed Merger with Eos."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The interim CEO reports steps taken towards the merger and expects it to close by year end, without describing the quarter as strong or weak."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1574235-0001493152-26-052739.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1574235/000149315226052739/ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1574235/000149315226052739/0001493152-26-052739-index.htm",
+    "saved_at": "2026-11-19T06:08:00+08:00"
   }
 ]
