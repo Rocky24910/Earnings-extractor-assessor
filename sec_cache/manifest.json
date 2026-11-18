@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-18T10:51:09+08:00",
+  "fetched_at": "2026-11-18T11:06:46+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,91 +16,91 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-16&enddt=2026-11-17",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 285 ms"
+      "detail": "HTTP 200, 60 KB in 936 ms"
     },
     {
       "name": "Earnings radar, page 2",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-16&enddt=2026-11-17&from=100",
       "ok": true,
-      "detail": "HTTP 200, 44 KB in 152 ms"
+      "detail": "HTTP 200, 44 KB in 502 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 131 ms"
+      "detail": "HTTP 200, 148 KB in 109 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 157 KB in 101 ms"
+      "detail": "HTTP 200, 157 KB in 98 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 119 ms"
+      "detail": "HTTP 200, 156 KB in 96 ms"
     },
     {
       "name": "HOME DEPOT, INC. filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/354950/000035495026000184/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 85 ms"
+      "detail": "HTTP 200, 1 KB in 138 ms"
     },
     {
       "name": "HOME DEPOT, INC. press release",
       "url": "https://www.sec.gov/Archives/edgar/data/354950/000035495026000184/hd_exhibit991x11012026.htm",
       "ok": true,
-      "detail": "HTTP 200, 218 KB in 61 ms"
+      "detail": "HTTP 200, 218 KB in 132 ms"
     },
     {
       "name": "Pulmatrix, Inc. filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1574235/000149315226052739/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 42 ms"
+      "detail": "HTTP 200, 1 KB in 89 ms"
     },
     {
       "name": "Pulmatrix, Inc. press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1574235/000149315226052739/ex99-1.htm",
       "ok": true,
-      "detail": "HTTP 200, 71 KB in 63 ms"
+      "detail": "HTTP 200, 71 KB in 89 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 90 ms"
+      "detail": "HTTP 200, 3,174 KB in 351 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 76 ms"
+      "detail": "HTTP 200, 4,447 KB in 355 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 94 ms"
+      "detail": "HTTP 200, 2,745 KB in 158 ms"
     },
     {
       "name": "HOME DEPOT, INC. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000354950.json",
       "ok": true,
-      "detail": "HTTP 200, 3,142 KB in 293 ms"
+      "detail": "HTTP 200, 3,142 KB in 157 ms"
     },
     {
       "name": "Pulmatrix, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001574235.json",
       "ok": true,
-      "detail": "HTTP 200, 1,524 KB in 142 ms"
+      "detail": "HTTP 200, 1,524 KB in 403 ms"
     },
     {
       "name": "KIMCO REALTY CORP company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000879101.json",
       "ok": true,
-      "detail": "HTTP 200, 4,711 KB in 60 ms"
+      "detail": "HTTP 200, 4,711 KB in 519 ms"
     }
   ],
   "files": [
