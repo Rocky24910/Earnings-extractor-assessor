@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-19T10:29:28+08:00",
+  "fetched_at": "2026-11-19T10:46:45+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,91 +16,91 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-17&enddt=2026-11-18",
       "ok": true,
-      "detail": "HTTP 200, 43 KB in 848 ms"
+      "detail": "HTTP 200, 43 KB in 42 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 115 ms"
+      "detail": "HTTP 200, 148 KB in 36 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 16 ms"
+      "detail": "HTTP 200, 156 KB in 21 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 153 KB in 24 ms"
+      "detail": "HTTP 200, 153 KB in 20 ms"
     },
     {
       "name": "KULICKE & SOFFA INDUSTRIES INC filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/56978/000005697826000038/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 88 ms"
+      "detail": "HTTP 200, 1 KB in 62 ms"
     },
     {
       "name": "KULICKE & SOFFA INDUSTRIES INC press release",
       "url": "https://www.sec.gov/Archives/edgar/data/56978/000005697826000038/ex991liveq42026.htm",
       "ok": true,
-      "detail": "HTTP 200, 268 KB in 97 ms"
+      "detail": "HTTP 200, 268 KB in 27 ms"
     },
     {
       "name": "RED ROBIN GOURMET BURGERS INC filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1171759/000162828026074799/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 197 ms"
+      "detail": "HTTP 200, 1 KB in 24 ms"
     },
     {
       "name": "RED ROBIN GOURMET BURGERS INC press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1171759/000162828026074799/exhibit991q3-2026.htm",
       "ok": true,
-      "detail": "HTTP 200, 380 KB in 186 ms"
+      "detail": "HTTP 200, 380 KB in 37 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 48 ms"
+      "detail": "HTTP 200, 3,174 KB in 33 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 107 ms"
+      "detail": "HTTP 200, 4,447 KB in 29 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 67 ms"
+      "detail": "HTTP 200, 2,745 KB in 42 ms"
     },
     {
       "name": "KULICKE & SOFFA INDUSTRIES INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000056978.json",
       "ok": true,
-      "detail": "HTTP 200, 3,570 KB in 86 ms"
+      "detail": "HTTP 200, 3,570 KB in 324 ms"
     },
     {
       "name": "RED ROBIN GOURMET BURGERS INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001171759.json",
       "ok": true,
-      "detail": "HTTP 200, 2,894 KB in 98 ms"
+      "detail": "HTTP 200, 2,894 KB in 238 ms"
     },
     {
       "name": "KIMCO REALTY CORP company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000879101.json",
       "ok": true,
-      "detail": "HTTP 200, 4,711 KB in 43 ms"
+      "detail": "HTTP 200, 4,711 KB in 374 ms"
     },
     {
       "name": "HOME DEPOT, INC. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000354950.json",
       "ok": true,
-      "detail": "HTTP 200, 3,142 KB in 135 ms"
+      "detail": "HTTP 200, 3,142 KB in 475 ms"
     }
   ],
   "files": [
