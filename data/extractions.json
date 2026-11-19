@@ -1140,5 +1140,137 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1574235/000149315226052739/ex99-1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1574235/000149315226052739/0001493152-26-052739-index.htm",
     "saved_at": "2026-11-19T06:08:00+08:00"
+  },
+  {
+    "cik": "56978",
+    "company": "KULICKE & SOFFA INDUSTRIES INC",
+    "accession": "0000056978-26-000038",
+    "release_date": "2026-11-18",
+    "period_end": "2026-10-03",
+    "period_label": "quarter ended 3 October 2026",
+    "figures": {
+      "revenue": {
+        "value": 410.281,
+        "unit": "USD millions",
+        "quote": "Net revenue | $ | 410,281 | $ | 177,558 | $ | 1,182,936 | $ | 654,081"
+      },
+      "operating_income": {
+        "value": 87.151,
+        "unit": "USD millions",
+        "quote": "Income / (Loss) from operations | 87,151 | 888 | 211,803 | (3,224)"
+      },
+      "net_income": {
+        "value": 73.233,
+        "unit": "USD millions",
+        "quote": "Net income / (loss) | $ | 73,233 | $ | 6,379 | $ | 182,593 | $ | 213"
+      },
+      "diluted_eps": {
+        "value": 1.37,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 1.37 | $ | 0.12 | $ | 3.42 | $ | 0.004"
+      }
+    },
+    "guidance": {
+      "text": "K&S expects first-quarter fiscal 2027 net revenue of about $410 million, plus or minus $20 million, and GAAP diluted EPS of about $1.48, plus or minus 10%.",
+      "quote": "K&S currently expects net revenue in the first quarter of fiscal 2027 ending January 2, 2027 to be approximately $410 million +/- $20 million, GAAP diluted EPS to be approximately $1.48 +/- 10%"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The CEO says the quarter was tremendous, with strong financial results.",
+        "quote": "This has been a tremendous quarter for many reasons – we delivered strong financial results"
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "The CEO says core wire bonding demand is resilient and the technology is evolving with AI, data centre and advanced packaging trends.",
+        "quote": "core wire bonding demand is resilient, our technology is evolving with AI, Data Center and Advanced Packaging trends"
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says the company has more visibility within its growing Advanced Solutions portfolio.",
+        "quote": "we have additional visibility within our growing Advanced Solutions portfolio"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the quarter tremendous, the results strong and core demand resilient, and mentions no headwind."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/56978-0000056978-26-000038.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/56978/000005697826000038/ex991liveq42026.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/56978/000005697826000038/0000056978-26-000038-index.htm",
+    "saved_at": "2026-11-20T06:07:53+08:00"
+  },
+  {
+    "cik": "1171759",
+    "company": "RED ROBIN GOURMET BURGERS INC",
+    "accession": "0001628280-26-074799",
+    "release_date": "2026-11-18",
+    "period_end": "2026-10-04",
+    "period_label": "quarter ended 4 October 2026",
+    "figures": {
+      "revenue": {
+        "value": 232.098,
+        "unit": "USD millions",
+        "quote": "Total revenues | $ | 232,098 | $ | 265,128 | $ | 887,999 | $ | 941,182"
+      },
+      "operating_income": {
+        "value": -15.73,
+        "unit": "USD millions",
+        "quote": "Income (loss) from operations | $ | (15,730) | $ | (12,113) | $ | (4,000) | $ | 6,765"
+      },
+      "net_income": {
+        "value": -21.187,
+        "unit": "USD millions",
+        "quote": "Net income (loss) | $ | (21,187) | $ | (18,419) | $ | (22,979) | $ | (13,177)"
+      },
+      "diluted_eps": {
+        "value": -1.12,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | (1.12) | $ | (1.03) | $ | (1.24) | $ | (0.74)"
+      }
+    },
+    "guidance": {
+      "text": "For the fourth quarter of fiscal 2026, the company expects comparable restaurant revenue growth, excluding deferred loyalty revenue, of about 2.75%.",
+      "quote": "Comparable Restaurant Revenue growth, excluding deferred loyalty revenue, of approximately 2.75%"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "The CEO says the company completed the key steps of its financial restructuring, using refranchising proceeds to cut debt and refinancing on better terms.",
+        "quote": "During the third quarter, we completed the key steps of our financial restructuring by refranchising restaurants, using the proceeds to significantly reduce debt, and refinancing new debt at much improved terms."
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "The CEO says third-quarter comparable sales rose 3.9%, which gives confidence the First Choice Plan is working.",
+        "quote": "our third quarter comp sales increase of 3.9% provides confidence that our First Choice Plan for restaurant performance is working"
+      },
+      {
+        "id": "M3",
+        "topic": "margins",
+        "claim": "The CEO says restaurant level operating margins expanded by 90 basis points.",
+        "quote": "contributed to a 90 basis point expansion in restaurant level operating margins"
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "The CEO says the company is well positioned to execute on its long-term priorities.",
+        "quote": "With a stronger financial foundation and improving operating trends, we believe Red Robin is well positioned to execute on its long-term priorities."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO speaks of meaningful progress, greater financial stability, improving trends and being well positioned, without naming a setback."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1171759-0001628280-26-074799.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1171759/000162828026074799/exhibit991q3-2026.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1171759/000162828026074799/0001628280-26-074799-index.htm",
+    "saved_at": "2026-11-20T06:07:53+08:00"
   }
 ]
