@@ -1,123 +1,130 @@
 {
-  "fetched_at": "2026-11-19T10:46:45+08:00",
+  "fetched_at": "2026-11-20T10:14:34+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
-    "start": "2026-11-17",
-    "end": "2026-11-18",
+    "start": "2026-11-18",
+    "end": "2026-11-19",
     "first_run": false,
     "note": null
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 15,
-  "answered": 15,
+  "requests": 16,
+  "answered": 16,
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-17&enddt=2026-11-18",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-18&enddt=2026-11-19",
       "ok": true,
-      "detail": "HTTP 200, 43 KB in 42 ms"
+      "detail": "HTTP 200, 41 KB in 101 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 36 ms"
+      "detail": "HTTP 200, 148 KB in 168 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 21 ms"
+      "detail": "HTTP 200, 156 KB in 87 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 153 KB in 20 ms"
+      "detail": "HTTP 200, 153 KB in 46 ms"
     },
     {
-      "name": "KULICKE & SOFFA INDUSTRIES INC filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/56978/000005697826000038/index.json",
+      "name": "GEOSPACE TECHNOLOGIES CORP filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1001115/000143774926037760/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 62 ms"
+      "detail": "HTTP 200, 2 KB in 80 ms"
     },
     {
-      "name": "KULICKE & SOFFA INDUSTRIES INC press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/56978/000005697826000038/ex991liveq42026.htm",
+      "name": "GEOSPACE TECHNOLOGIES CORP filing index page",
+      "url": "https://www.sec.gov/Archives/edgar/data/1001115/000143774926037760/0001437749-26-037760-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 268 KB in 27 ms"
+      "detail": "HTTP 200, 10 KB in 39 ms"
     },
     {
-      "name": "RED ROBIN GOURMET BURGERS INC filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1171759/000162828026074799/index.json",
+      "name": "GEOSPACE TECHNOLOGIES CORP press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1001115/000143774926037760/ex_1048605.htm",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 24 ms"
+      "detail": "HTTP 200, 431 KB in 53 ms"
     },
     {
-      "name": "RED ROBIN GOURMET BURGERS INC press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1171759/000162828026074799/exhibit991q3-2026.htm",
+      "name": "SunPower Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1838987/000121390026122000/index.json",
       "ok": true,
-      "detail": "HTTP 200, 380 KB in 37 ms"
+      "detail": "HTTP 200, 2 KB in 94 ms"
+    },
+    {
+      "name": "SunPower Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1838987/000121390026122000/ea031290001ex99-1.htm",
+      "ok": true,
+      "detail": "HTTP 200, 52 KB in 103 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 33 ms"
+      "detail": "HTTP 200, 3,174 KB in 101 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 29 ms"
+      "detail": "HTTP 200, 4,447 KB in 202 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 42 ms"
+      "detail": "HTTP 200, 2,745 KB in 93 ms"
     },
     {
-      "name": "KULICKE & SOFFA INDUSTRIES INC company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000056978.json",
+      "name": "GEOSPACE TECHNOLOGIES CORP company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001001115.json",
       "ok": true,
-      "detail": "HTTP 200, 3,570 KB in 324 ms"
+      "detail": "HTTP 200, 2,732 KB in 198 ms"
     },
     {
-      "name": "RED ROBIN GOURMET BURGERS INC company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001171759.json",
+      "name": "SunPower Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001838987.json",
       "ok": true,
-      "detail": "HTTP 200, 2,894 KB in 238 ms"
-    },
-    {
-      "name": "KIMCO REALTY CORP company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000879101.json",
-      "ok": true,
-      "detail": "HTTP 200, 4,711 KB in 374 ms"
+      "detail": "HTTP 200, 1,788 KB in 131 ms"
     },
     {
       "name": "HOME DEPOT, INC. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000354950.json",
       "ok": true,
-      "detail": "HTTP 200, 3,142 KB in 475 ms"
+      "detail": "HTTP 200, 3,142 KB in 203 ms"
+    },
+    {
+      "name": "KULICKE & SOFFA INDUSTRIES INC company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000056978.json",
+      "ok": true,
+      "detail": "HTTP 200, 3,648 KB in 114 ms"
     }
   ],
   "files": [
     "data.sec.gov_api_xbrl_companyfacts_CIK0000056978.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0000354950.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0000879101.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001001115.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001171759.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001838987.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
     "efts.sec.gov_search-index_from0.json",
-    "www.sec.gov_Archives_edgar_data_1171759_000162828026074799_exhibit991q3-2026.htm",
-    "www.sec.gov_Archives_edgar_data_1171759_000162828026074799_index.json",
-    "www.sec.gov_Archives_edgar_data_56978_000005697826000038_ex991liveq42026.htm",
-    "www.sec.gov_Archives_edgar_data_56978_000005697826000038_index.json"
+    "www.sec.gov_Archives_edgar_data_1001115_000143774926037760_0001437749-26-037760-index.htm",
+    "www.sec.gov_Archives_edgar_data_1001115_000143774926037760_ex_1048605.htm",
+    "www.sec.gov_Archives_edgar_data_1001115_000143774926037760_index.json",
+    "www.sec.gov_Archives_edgar_data_1838987_000121390026122000_ea031290001ex99-1.htm",
+    "www.sec.gov_Archives_edgar_data_1838987_000121390026122000_index.json"
   ]
 }
