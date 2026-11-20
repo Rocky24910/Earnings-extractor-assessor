@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-20T10:14:34+08:00",
+  "fetched_at": "2026-11-20T10:33:55+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,97 +16,97 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-18&enddt=2026-11-19",
       "ok": true,
-      "detail": "HTTP 200, 41 KB in 101 ms"
+      "detail": "HTTP 200, 41 KB in 141 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 168 ms"
+      "detail": "HTTP 200, 148 KB in 36 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 87 ms"
+      "detail": "HTTP 200, 156 KB in 19 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 153 KB in 46 ms"
+      "detail": "HTTP 200, 153 KB in 17 ms"
     },
     {
       "name": "GEOSPACE TECHNOLOGIES CORP filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1001115/000143774926037760/index.json",
       "ok": true,
-      "detail": "HTTP 200, 2 KB in 80 ms"
+      "detail": "HTTP 200, 2 KB in 215 ms"
     },
     {
       "name": "GEOSPACE TECHNOLOGIES CORP filing index page",
       "url": "https://www.sec.gov/Archives/edgar/data/1001115/000143774926037760/0001437749-26-037760-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 10 KB in 39 ms"
+      "detail": "HTTP 200, 10 KB in 199 ms"
     },
     {
       "name": "GEOSPACE TECHNOLOGIES CORP press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1001115/000143774926037760/ex_1048605.htm",
       "ok": true,
-      "detail": "HTTP 200, 431 KB in 53 ms"
+      "detail": "HTTP 200, 431 KB in 126 ms"
     },
     {
       "name": "SunPower Inc. filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1838987/000121390026122000/index.json",
       "ok": true,
-      "detail": "HTTP 200, 2 KB in 94 ms"
+      "detail": "HTTP 200, 2 KB in 181 ms"
     },
     {
       "name": "SunPower Inc. press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1838987/000121390026122000/ea031290001ex99-1.htm",
       "ok": true,
-      "detail": "HTTP 200, 52 KB in 103 ms"
+      "detail": "HTTP 200, 52 KB in 222 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 101 ms"
+      "detail": "HTTP 200, 3,174 KB in 29 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 202 ms"
+      "detail": "HTTP 200, 4,447 KB in 22 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 93 ms"
+      "detail": "HTTP 200, 2,745 KB in 20 ms"
     },
     {
       "name": "GEOSPACE TECHNOLOGIES CORP company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001001115.json",
       "ok": true,
-      "detail": "HTTP 200, 2,732 KB in 198 ms"
+      "detail": "HTTP 200, 2,732 KB in 34 ms"
     },
     {
       "name": "SunPower Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001838987.json",
       "ok": true,
-      "detail": "HTTP 200, 1,788 KB in 131 ms"
+      "detail": "HTTP 200, 1,788 KB in 33 ms"
     },
     {
       "name": "HOME DEPOT, INC. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000354950.json",
       "ok": true,
-      "detail": "HTTP 200, 3,142 KB in 203 ms"
+      "detail": "HTTP 200, 3,142 KB in 38 ms"
     },
     {
       "name": "KULICKE & SOFFA INDUSTRIES INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000056978.json",
       "ok": true,
-      "detail": "HTTP 200, 3,648 KB in 114 ms"
+      "detail": "HTTP 200, 3,648 KB in 31 ms"
     }
   ],
   "files": [
