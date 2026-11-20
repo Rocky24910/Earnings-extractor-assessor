@@ -1,0 +1,189 @@
+Company: GEOSPACE TECHNOLOGIES CORP (CIK 1001115)
+Accession: 0001437749-26-037760
+Results released: 2026-11-19
+Press release: https://www.sec.gov/Archives/edgar/data/1001115/000143774926037760/ex_1048605.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1001115/000143774926037760/0001437749-26-037760-index.htm
+Saved: 2026-11-21T06:08:11+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 ex_1048605.htm EXHIBIT 99.1
+Exhibit 99.1
+FOR IMMEDIATE RELEASE
+NEWS RELEASE
+GEOSPACE TECHNOLOGIES CORPORATION REPORTS FOURTH QUARTER
+AND FISCAL YEAR 2026 RESULTS
+Houston, Texas – November 19, 2026 – Geospace Technologies Corporation (NASDAQ: GEOS) (“the “Company") today reported revenue for the fourth quarter ended September 30, 2026, of $19.6 million compared to revenue of $30.7 million for the comparable year-ago period. Net loss for the fourth quarter ended September 30, 2026 was $13.7 million, or $(1.06) per basic and diluted share, compared to a net loss of $9.1 million, or $(0.71) per basic and diluted share, for the comparable year-ago period. The fourth quarter loss included non-cash charges of $3.5 million cumulative translation loss related to the Company’s Colombian operations and $2.9 million for underutilized assets related to select nodal rental tools and manufacturing equipment.
+For the twelve-month period ended September 30, 2026, Geospace Technologies reported revenue of $80.7 million for its fiscal year ended September 30, 2026. This compares to revenue of $110.8 million for the comparable year-ago period. Net loss for the fiscal year ended September 30, 2026 was $44.3 million, or $(3.43) basic and per diluted share, compared to a net loss of $9.7 million, or $(0.76) per basic and diluted share, for comparable year-ago period.
+Management’s Comments
+Richard “Rich” Kelley, Chief Executive Officer and President of Geospace Technologies, said, “To provide an understanding of our financial performance this fiscal year, it is beneficial to consider the global economic picture. The year remained plagued by uncertainty and delays driven by ongoing changes in trade policy, a major Middle East energy disruption, continued sanctions, and shifts in borrowing costs. These significant factors negatively impacted our ability to conduct business in our current structure.
+As such, the management team has taken decisive steps to realign our operations, reduce costs, and position Geospace for a return to profitability. During fiscal year 2026, we have executed two reductions in force, an early retirement program, and cutbacks in expenses. Additionally, the challenging business conditions during fiscal 2026 contributed to non-cash charges recorded for the fiscal year of approximately $6 million of cumulative foreign exchange loss and underutilized equipment.
+Our Smart Water segment experienced disappointing declines driven predominantly by decreases in orders for our Hydroconn line of smart water meter connector cables. Evaluation of broader market conditions point to slower hardware shipments, uneven project deployments, and normalization following earlier demand surges. Several major metering suppliers are experiencing near-term hardware and deployment softness, while longer-term modernization demand appears more resilient. As part of our business restructuring, we concluded a decades long relationship with an external manufacturing representative firm, who exclusively marketed the Hydroconn connectors. In fiscal year 2027, we will use internal sales and marketing resources to build demand and secure specifications of our products in utility AMI-related procurements. This approach will reduce expenses associated with representative commissions and increase our control over product promotion and increase customer intimacy. While the contribution from the Aquana brand remains modest, the products continue to grow with 51% year over year revenue increases. In the coming year, we look to build upon the growth in Aquana revenue and maximize our early efforts with white label product manufacturing to support a revenue rebound in this segment.
+Our Energy Solutions segment experienced the impacts of energy market volatility and project timing shifts, increased component and shipping costs, as well as access to raw materials. Increased competition and consolidation remain challenging in the marine exploration market and have led to decreased demand for our ocean-bottom nodes. The segment focused resources on execution of sizable contracts including the Petrobras Permanent Reservoir Monitoring (PRM) program, which is expected to be shipped and product-related revenue recognized by the end of fiscal year 2027. The previously cited global conditions proved harshest for our energy sales efforts, however, we have a strong backlog in this segment going into the next fiscal year. Long-term demand forecasts should drive more favorable land exploration market conditions resulting in additional Pioneer contracts.
+For the Intelligent Industrial segment, the economic headwinds were less severe but still influenced revenue timing. The biggest factor impacting revenue generation was government procurement timing at state and federal levels. After a lengthy effort, our Quantum Technology Sciences subsidiary entered into a $10.8 million contract with the U.S. Naval Surface Warfare Center Crane Division, Crane, Indiana for the Company’s Seismic Acoustic Detection and Ranging Underwater System. Similar timing delays have occurred around the sale of the Heartbeat Detector®, a vehicle security screening technology used by correctional and border agencies. Lengthy procurement cycles and complex approvals have resulted in slower than expected revenue recognition with this product line, but the outlook and demand for the technology remain extremely encouraging.
+Despite this incredibly challenging year, our restructuring decisions and implementation will set the company more solidly on a return to profitability in fiscal year 2027. We concluded fiscal year 2026 with a backlog exceeding $100 million from contracts across our three segments. Contributions to the backlog encompass not only the PRM program, but contracts with the U.S. Federal government and other agencies as well as contract manufacturing customers and smart water white label commitments. The strong backlog, a well targeted acquisition strategy and restructured operations prepare Geospace well for the future.”
+Smart Water Segment
+Revenue from the Company’s Smart Water segment totaled $3.1 million for the three months ended September 30, 2026. This compares to $8.5 million in revenue for the same period a year ago a decrease of 63%. For the fiscal year, revenue from this segment totaled $17.2 million versus $35.8 million for the same prior year period for a decrease of 52%. The decrease in revenue for the three-month and twelve-month periods is due to decreased demand for our Hydroconn universal AMI connectors.
+Energy Solutions Segment
+For the three-month period ended September 30, 2026, revenue from the Company’s Energy Solutions segment totaled $10.8 million for a decrease of 31% when compared to $15.7 million from the same prior year period. Revenue from the twelve-month period was $40.9 million, a decrease of 19%, when compared to revenue from the same prior year period of $50.7 million. The decrease for the three-month period and twelve-month period is due to lower utilization and sales for our marine ocean bottom node rental fleet, partially offset by revenue recognized related to performance on our PRM contract and sales of the Company’s ultralight land node known as Pioneer.
+Intelligent Industrial Segment
+Revenue from the Company’s Intelligent Industrial segment totaled $5.6 million for the three-month period ended September 30, 2026. This compares with $6.4 million from the equivalent year ago period, representing a decrease of 12%. Revenue for the twelve-month period ending September 30, 2026, was $22.2 million. This compares to the prior year-ago period of $24.0 million, a decrease of 7%. The decrease in revenue for the three-month period and twelve-month period was due to lower demand for our industrial sensors, and imaging products, partially offset by an increase in security and defense revenue.
+Balance Sheet and Liquidity
+For the twelve-month period ended September 30, 2026, the Company used $35.1 million in cash and cash equivalents from operating activities. The Company generated $9.8 million of cash from investing activities that included $12.1 million of proceeds from the sale of rental equipment, $1.4 million in proceeds from the sale of property, plant and equipment and, offset by $3.9 million for additions to property, plant and equipment. The Company generated $7.1 million of cash from financing activities of which $7.5 million was from borrowings from the Company’s Woodforest credit facility.
+On October 29, 2026, the Company entered into a Revolving Loan and Security Agreement with Amerisource Funding, Inc. (the "Amerisource Agreement"). The Company had a $7.5 million outstanding loan balance under the Woodforest Agreement, which was refinanced with borrowings under the Amerisource Agreement at closing. The Amerisource Agreement is for a three-year term and provides a revolving credit facility with a maximum availability of $25 million, subject to a borrowing base. Interest shall accrue on outstanding borrowings at the prime rate plus 3.5% per annum. The Company is required to make monthly interest payments on borrowed funds. The Amerisource Agreement is secured by substantially all of the Company’s assets, except for certain excluded property, and is guaranteed by certain of the Company’s subsidiaries. As of the date of this announcement, the Company has available borrowings of approximately $13 million.
+Conference Call Information
+Geospace Technologies will host a conference call to review its fourth quarter and fiscal year 2026 financial results on Friday, November 20, 2026, at 10:00 a.m. Eastern Time (9 a.m. Central). Participants can access the call at 833-316-1983 (US) or 785-838-9310 (International). Please reference the conference ID: GEOSQ426 prior to the start of the conference call. A replay will be available for approximately 60 days and may be accessed through the Investor Relations page of our website at www.geospace.com.
+About Geospace Technologies
+Geospace Technologies is a global technology and instrumentation manufacturer specializing in advanced sensing, IOT and highly ruggedized products, which serve smart water, energy exploration, industrial, government and commercial customers worldwide. The Company’s products blend engineering expertise with advanced analytic software to optimize energy exploration, enhance national and homeland security, empower water utility and property managers, and streamline electronic printing solutions. With more than four decades of excellence, the Company’s 390 employees across the world are dedicated to engineering and technical quality. Geospace is traded on the U.S. NASDAQ stock exchange under the ticker symbol GEOS. For more information, visit www.geospace.com.
+MEDIA CONTACT: Caroline Kempf, ckempf@geospace.com, 713.986.8710
+Forward Looking Statements
+This news release contains “forward-looking” statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended (the “Exchange Act”). These forward-looking statements can be identified by terminology such as “may”, “will”, “should”, “could”, “intend”, “expect”, “plan”, “budget”, “forecast”, “anticipate”, “believe”, “estimate”, “predict”, “potential”, “continue”, “evaluating” or similar words. Statements that contain these words should be read carefully because they discuss our future expectations, contain projections of our future results of operations or of our financial position or state other forward-looking information. Examples of forward-looking statements include, among others, statements that we make regarding our expected operating results, the timing, adoption, results and success of our rollout of our Aquana smart water valves and cloud-based control platform, continued demand growth of our Hydroconn universal AMI connectors, future demand for our Quantum security solutions, the adoption and sale of our products in various geographic regions, potential tenders for permanent reservoir monitoring systems, future demand for ocean bottom node rental equipment, sales or rentals for our Mariner™ or Mariner Deep® nodes, the adoption of Quantum's SADAR® product monitoring of subsurface reservoirs, the completion of new orders for channels of our Pioneer™ system, the fulfillment of customer payment obligations, the impact of the current armed conflict between the U.S. and Iran and between Russia and Ukraine, our ability to manage changes and the continued health or availability of management personnel, volatility and direction of oil prices, anticipated levels of capital expenditures and the sources of funding therefor, and our strategy for growth, product development, market position, financial results and the provision of accounting reserves. These forward-looking statements reflect our current judgment about future events and trends based on the information currently available to us. However, there will likely be events in the future that we are not able to predict or control. The factors listed under the caption “Risk Factors” in our most recent Annual Report on Form 10-K which is on file with the Securities and Exchange Commission, as well as other cautionary language in such Annual Report, any subsequent Quarterly Report on Form 10-Q, or in other period reports, provide examples of risks, uncertainties and events that may cause our actual results to differ materially from the expectations we describe in our forward-looking statements. Such examples include, but are not limited to, the failure of the Quantum and OptoSeis® or Aquana technology transactions to yield positive operating results, decreases in commodity price levels, the failure of our products to achieve market acceptance (despite substantial investment by us), our sensitivity to short term backlog, delayed or cancelled customer orders, product obsolescence resulting from poor industry conditions or new technologies, credit losses associated with customer accounts, inability to collect on financing receivables, lack of further orders for our ocean bottom nodes rental equipment, failure of our Quantum products to be adopted by the border and security perimeter market or a decrease in such market due to governmental changes, and infringement or failure to protect intellectual property. The occurrence of the events described in these risk factors and elsewhere in our most recent Annual Report on Form 10-K or in our other periodic reports could have a material adverse effect on our business, results of operations and financial position, and actual events and results of operations may vary materially from our current expectations. We assume no obligation to revise or update any forward-looking statement, whether written or oral, that we may make from time to time, whether as a result of new information, future developments or otherwise, except as required by applicable securities laws and regulations.
+# # #
+GEOSPACE TECHNOLOGIES CORPORATION AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(in thousands, except share and per share amounts)
+(unaudited)
+Three Months Ended | Year Ended
+September 30, 2026 | September 30, 2025 | September 30, 2026 | September 30, 2025
+Revenue:
+Products | $ | 18,061 | $ | 29,624 | $ | 76,632 | $ | 104,204
+Rental | 1,528 | 1,090 | 4,089 | 6,599
+Total revenue | 19,589 | 30,714 | 80,721 | 110,803
+Cost of revenue:
+Products | 17,424 | 24,913 | 68,622 | 68,079
+Rental | 3,252 | 2,340 | 9,300 | 9,827
+Total cost of revenue | 20,676 | 27,253 | 77,922 | 77,906
+Gross profit (loss) | (1,087 | ) | 3,461 | 2,799 | 32,897
+Operating expenses:
+Selling, general and administrative | 6,632 | 8,074 | 28,980 | 29,815
+Research and development | 4,003 | 4,549 | 17,129 | 18,916
+Change in fair value of contingent consideration | (265 | ) | — | (55 | ) | —
+Provision for credit losses | 1 | 45 | 7 | 66
+Total operating expenses | 10,371 | 12,668 | 46,061 | 48,797
+Gain (loss) on disposal of property and liquidation of foreign operations | (2,547 | ) | — | (2,547 | ) | 4,616
+Loss from operations | (14,005 | ) | (9,207 | ) | (45,809 | ) | (11,284 | )
+Other income (expense):
+Interest expense | (145 | ) | (38 | ) | (257 | ) | (169 | )
+Interest income | 414 | 562 | 2,185 | 2,537
+Foreign currency transaction losses, net | (8 | ) | (10 | ) | (227 | ) | (275 | )
+Other, net | (26 | ) | (36 | ) | (115 | ) | (145 | )
+Total other income (expense), net | 235 | 478 | 1,586 | 1,948
+Loss before income taxes | (13,770 | ) | (8,729 | ) | (44,223 | ) | (9,336 | )
+Income tax expense (benefit) | (23 | ) | 333 | 45 | 388
+Net loss | $ | (13,747 | ) | $ | (9,062 | ) | $ | (44,268 | ) | $ | (9,724 | )
+Loss per common share:
+Basic | $ | (1.06 | ) | $ | (0.71 | ) | $ | (3.43 | ) | $ | (0.76 | )
+Diluted | $ | (1.06 | ) | $ | (0.71 | ) | $ | (3.43 | ) | $ | (0.76 | )
+Weighted average common shares outstanding:
+Basic | 12,753,378 | 12,820,403 | 12,908,517 | 12,793,075
+Diluted | 12,753,378 | 12,820,403 | 12,908,517 | 12,793,075
+GEOSPACE TECHNOLOGIES CORPORATION AND SUBSIDIARIES
+CONSOLIDATED BALANCE SHEETS
+(in thousands except share amounts) (unaudited)
+YEAR END SEPTEMBER 30,
+2026 | 2025
+ASSETS
+Current assets:
+Cash and cash equivalents | $ | 6,146 | $ | 26,338
+Restricted cash | 2,000 | —
+Trade accounts and financing receivables, net | 14,031 | 28,009
+Inventories, net | 34,407 | 30,901
+Prepaid expenses and other current assets | 7,237 | 3,252
+Total current assets | 63,821 | 88,500
+Non-current inventories, net | 13,824 | 17,113
+Rental equipment, net | 1,956 | 8,120
+Property, plant and equipment, net | 20,403 | 23,244
+Non-current financing receivables, net | 9,159 | 8,190
+Operating right-of-use assets | 510 | 915
+Goodwill | 1,258 | 1,258
+Other intangible assets, net | 4,594 | 5,155
+Other non-current assets | 453 | 542
+Total assets | $ | 115,978 | $ | 153,037
+LIABILITIES AND STOCKHOLDERS’ EQUITY
+Current liabilities:
+Accounts payable trade | $ | 7,064 | $ | 10,369
+Operating lease liabilities | 464 | 420
+Deferred contract liabilities | 4,539 | —
+Other current liabilities | 8,135 | 13,641
+Total current liabilities | 20,202 | 24,430
+Long-term debt | 7,500 | —
+Contingent consideration | 2,485 | 2,540
+Non-current operating lease liabilities | 90 | 554
+Deferred tax liabilities, net | - | 4
+Total liabilities | 30,277 | 27,528
+Commitments and contingencies
+Stockholders’ equity:
+Preferred stock, 1,000,000 shares authorized, no shares issued and outstanding | — | —
+Common stock, $.01 par value, 20,000,000 shares authorized, 14,493,863 and 14,378,962 shares issued, respectively; and 12,935,603 and 12,820,702 shares outstanding, respectively | 145 | 144
+Additional paid-in capital | 99,784 | 98,845
+Retained earnings | 1,290 | 45,558
+Accumulated other comprehensive loss | (1,018 | ) | (4,538 | )
+Treasury stock, at cost, 1,558,260 | (14,500 | ) | (14,500 | )
+Total stockholders’ equity | 85,701 | 125,509
+Total liabilities and stockholders’ equity | $ | 115,978 | $ | 153,037
+GEOSPACE TECHNOLOGIES CORPORATION AND SUBSIDIARIES
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(in thousands) (unaudited)
+YEAR ENDED SEPTEMBER 30,
+2026 | 2025
+Cash flows from operating activities:
+Net loss | $ | (44,268 | ) | $ | (9,724 | )
+Adjustments to reconcile net loss to net cash used in operating activities:
+Deferred income tax benefit | (13 | ) | (31 | )
+Rental equipment depreciation | 4,692 | 6,176
+Property, plant and equipment depreciation | 4,999 | 3,752
+Amortization of intangible assets | 561 | 218
+Amortization of discount on note receivable | (74 | ) | (74 | )
+Accretion of discounts on short-term investments | — | (171 | )
+Stock-based compensation expense | 1,257 | 1,505
+Provision for credit losses | 7 | 66
+Inventory obsolescence expense | 4,910 | 3,071
+Gross (profit) loss from disposal of rental equipment | 1,741 | (16,402 | )
+Loss (gain) on disposal of property, plant and equipment | 3,997 | (4,679 | )
+Realized gain on investments | — | (9 | )
+Change in fair value of contingent consideration | (55 | ) | —
+Effects of changes in operating assets and liabilities:
+Trade accounts and notes receivable | 970 | (4,244 | )
+Inventories | (5,514 | ) | (7,571 | )
+Other assets | (3,392 | ) | (1,345 | )
+Accounts payable trade | (3,433 | ) | 2,353
+Other liabilities | (1,476 | ) | 4,877
+Net cash used in operating activities | (35,091 | ) | (22,232 | )
+Cash flows from investing activities:
+Purchase of property, plant and equipment | (3,852 | ) | (7,973 | )
+Investment in rental equipment | (79 | ) | (1,091 | )
+Proceeds from the sale of property, plant and equipment | 1,407 | 8,675
+Proceeds from the sale of rental equipment | 12,066 | 14,171
+Proceeds from the sale of short-term investments | — | 30,407
+Payment for business acquisition | — | (1,750 | )
+Payments received on note receivable related to sale of subsidiary | 216 | 253
+Net cash provided by investing activities | 9,758 | 42,692
+Cash flows from financing activities:
+Borrowings under credit agreement | 7,500 | —
+Tax payments on stock-based compensation for exchange of common stock | (317 | ) | —
+Debt issuance costs | (62 | ) | (398 | )
+Purchase of treasury stock | — | (615 | )
+Net cash provided by (used in) financing activities | 7,121 | (1,013 | )
+Effect of exchange rate changes on cash | 20 | (4 | )
+Increase (decrease) in cash, cash equivalents and restricted cash | (18,192 | ) | 19,443
+Cash, cash equivalents and restricted cash, beginning of fiscal year | 26,338 | 6,895
+Cash, cash equivalents and restricted cash, end of fiscal year | 8,146 | 26,338
+Less: restricted cash | (2,000 | ) | —
+Cash and cash equivalents, end of fiscal year | $ | 6,146 | $ | 26,338
+GEOSPACE TECHNOLOGIES CORPORATION AND SUBSIDIARIES
+SUMMARY OF SEGMENT REVENUE AND OPERATING LOSS
+(in thousands)
+(unaudited)
+Three Months Ended | Year Ended
+September 30, 2026 | September 30, 2025 | September 30, 2026 | September 30, 2025
+Revenue:
+Smart Water | $ | 3,135 | $ | 8,538 | $ | 17,241 | $ | 35,816
+Energy Solutions | 10,792 | 15,729 | 40,908 | 50,706
+Intelligent Industrial | 5,591 | 6,364 | 22,247 | 23,960
+Corporate | 71 | 83 | 325 | 321
+Total | $ | 19,589 | $ | 30,714 | $ | 80,721 | $ | 110,803
+Income (loss) from operations:
+Smart Water | $ | (1,035 | ) | $ | 1,640 | $ | (4,406 | ) | $ | 5,663
+Energy Solutions | (5,777 | ) | (4,992 | ) | (18,583 | ) | 388
+Intelligent Industrial | (552 | ) | (1,061 | ) | (2,416 | ) | (4,329 | )
+Corporate | (6,641 | ) | (4,794 | ) | (20,404 | ) | (13,006 | )
+Total | $ | (14,005 | ) | $ | (9,207 | $ | (45,809 | ) | $ | (11,284 | )
