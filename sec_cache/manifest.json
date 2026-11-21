@@ -1,130 +1,137 @@
 {
-  "fetched_at": "2026-11-20T10:33:55+08:00",
+  "fetched_at": "2026-11-21T10:07:37+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
-    "start": "2026-11-18",
-    "end": "2026-11-19",
+    "start": "2026-11-19",
+    "end": "2026-11-20",
     "first_run": false,
     "note": null
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 16,
-  "answered": 16,
+  "requests": 17,
+  "answered": 17,
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-18&enddt=2026-11-19",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-19&enddt=2026-11-20",
       "ok": true,
-      "detail": "HTTP 200, 41 KB in 141 ms"
+      "detail": "HTTP 200, 31 KB in 461 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 36 ms"
+      "detail": "HTTP 200, 149 KB in 283 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 19 ms"
+      "detail": "HTTP 200, 156 KB in 137 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 153 KB in 17 ms"
+      "detail": "HTTP 200, 153 KB in 116 ms"
     },
     {
-      "name": "GEOSPACE TECHNOLOGIES CORP filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1001115/000143774926037760/index.json",
+      "name": "TruGolf Holdings, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1857086/000149315226053548/index.json",
       "ok": true,
-      "detail": "HTTP 200, 2 KB in 215 ms"
+      "detail": "HTTP 200, 1 KB in 138 ms"
     },
     {
-      "name": "GEOSPACE TECHNOLOGIES CORP filing index page",
-      "url": "https://www.sec.gov/Archives/edgar/data/1001115/000143774926037760/0001437749-26-037760-index.htm",
+      "name": "TruGolf Holdings, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1857086/000149315226053548/ex99-1.htm",
       "ok": true,
-      "detail": "HTTP 200, 10 KB in 199 ms"
+      "detail": "HTTP 200, 201 KB in 46 ms"
     },
     {
-      "name": "GEOSPACE TECHNOLOGIES CORP press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1001115/000143774926037760/ex_1048605.htm",
+      "name": "MOOG INC. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/67887/000162828026075170/index.json",
       "ok": true,
-      "detail": "HTTP 200, 431 KB in 126 ms"
+      "detail": "HTTP 200, 2 KB in 31 ms"
     },
     {
-      "name": "SunPower Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1838987/000121390026122000/index.json",
+      "name": "MOOG INC. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/67887/000162828026075170/ex991-112026.htm",
       "ok": true,
-      "detail": "HTTP 200, 2 KB in 181 ms"
-    },
-    {
-      "name": "SunPower Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1838987/000121390026122000/ea031290001ex99-1.htm",
-      "ok": true,
-      "detail": "HTTP 200, 52 KB in 222 ms"
+      "detail": "HTTP 200, 445 KB in 56 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 29 ms"
+      "detail": "HTTP 200, 3,174 KB in 379 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 22 ms"
+      "detail": "HTTP 200, 4,447 KB in 216 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 20 ms"
+      "detail": "HTTP 200, 2,745 KB in 100 ms"
     },
     {
-      "name": "GEOSPACE TECHNOLOGIES CORP company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001001115.json",
+      "name": "TruGolf Holdings, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001857086.json",
       "ok": true,
-      "detail": "HTTP 200, 2,732 KB in 34 ms"
+      "detail": "HTTP 200, 739 KB in 247 ms"
     },
     {
-      "name": "SunPower Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001838987.json",
+      "name": "MOOG INC. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000067887.json",
       "ok": true,
-      "detail": "HTTP 200, 1,788 KB in 33 ms"
+      "detail": "HTTP 200, 4,053 KB in 209 ms"
     },
     {
       "name": "HOME DEPOT, INC. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000354950.json",
       "ok": true,
-      "detail": "HTTP 200, 3,142 KB in 38 ms"
+      "detail": "HTTP 200, 3,182 KB in 252 ms"
     },
     {
       "name": "KULICKE & SOFFA INDUSTRIES INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000056978.json",
       "ok": true,
-      "detail": "HTTP 200, 3,648 KB in 31 ms"
+      "detail": "HTTP 200, 3,648 KB in 372 ms"
+    },
+    {
+      "name": "GEOSPACE TECHNOLOGIES CORP company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001001115.json",
+      "ok": true,
+      "detail": "HTTP 200, 2,788 KB in 196 ms"
+    },
+    {
+      "name": "SunPower Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001838987.json",
+      "ok": true,
+      "detail": "HTTP 200, 1,788 KB in 215 ms"
     }
   ],
   "files": [
     "data.sec.gov_api_xbrl_companyfacts_CIK0000056978.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0000067887.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0000354950.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001001115.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001838987.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001857086.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
     "efts.sec.gov_search-index_from0.json",
-    "www.sec.gov_Archives_edgar_data_1001115_000143774926037760_0001437749-26-037760-index.htm",
-    "www.sec.gov_Archives_edgar_data_1001115_000143774926037760_ex_1048605.htm",
-    "www.sec.gov_Archives_edgar_data_1001115_000143774926037760_index.json",
-    "www.sec.gov_Archives_edgar_data_1838987_000121390026122000_ea031290001ex99-1.htm",
-    "www.sec.gov_Archives_edgar_data_1838987_000121390026122000_index.json"
+    "www.sec.gov_Archives_edgar_data_1857086_000149315226053548_ex99-1.htm",
+    "www.sec.gov_Archives_edgar_data_1857086_000149315226053548_index.json",
+    "www.sec.gov_Archives_edgar_data_67887_000162828026075170_ex991-112026.htm",
+    "www.sec.gov_Archives_edgar_data_67887_000162828026075170_index.json"
   ]
 }
