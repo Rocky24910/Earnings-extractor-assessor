@@ -1399,5 +1399,124 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1838987/000121390026122000/ea031290001ex99-1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1838987/000121390026122000/0001213900-26-122000-index.htm",
     "saved_at": "2026-11-21T06:08:11+08:00"
+  },
+  {
+    "cik": "1857086",
+    "company": "TruGolf Holdings, Inc.",
+    "accession": "0001493152-26-053548",
+    "release_date": "2026-11-20",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 5.314702,
+        "unit": "USD millions",
+        "quote": "Revenue, net | $ | 5,314,702"
+      },
+      "operating_income": {
+        "value": -2.036363,
+        "unit": "USD millions",
+        "quote": "Loss from operations | (2,036,363 | )"
+      },
+      "net_income": {
+        "value": -2.082997,
+        "unit": "USD millions",
+        "quote": "Net loss | $ | (2,082,997 | )"
+      },
+      "diluted_eps": {
+        "value": -1.62,
+        "unit": "USD per share",
+        "quote": "Net loss per common share - basic and diluted | $ | (1.62 | )"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The interim CEO says the third quarter was a strong revenue period, with sales up by over 29% on a new marketing team and new products.",
+        "quote": "The third quarter was also a strong revenue period for the company, as sales grew by over 29%, reflecting positive results from an entirely new marketing team and budget"
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "The interim CEO says the company will lean into E6 marketing and sales partnerships and improve cost management of the golf operations.",
+        "quote": "With sales growing, we will lean into the proven new E6 marketing and sales partnerships and continue turn to improve cost management of our golf operations over the next several quarters."
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The interim CEO says the Polymath acquisition closed after quarter-end and will be included from the fourth quarter.",
+        "quote": "Polymath will be integrated into our fourth quarter financial reporting"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The interim CEO calls the quarter a strong revenue period and says he is very excited about the prospects of the Polymath business."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1857086-0001493152-26-053548.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1857086/000149315226053548/ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1857086/000149315226053548/0001493152-26-053548-index.htm",
+    "saved_at": "2026-11-22T06:08:21+08:00"
+  },
+  {
+    "cik": "67887",
+    "company": "MOOG INC.",
+    "accession": "0001628280-26-075170",
+    "release_date": "2026-11-20",
+    "period_end": "2026-10-03",
+    "period_label": "quarter ended 3 October 2026",
+    "figures": {
+      "revenue": {
+        "value": 1254.101,
+        "unit": "USD millions",
+        "quote": "Net sales | $ | 1,254,101"
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": 107.206,
+        "unit": "USD millions",
+        "quote": "Net earnings | $ | 107,206"
+      },
+      "diluted_eps": {
+        "value": 3.35,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 3.35"
+      }
+    },
+    "guidance": {
+      "text": "Moog guides fiscal 2027 net sales of $4,950 million, against $4,523 million in fiscal 2026.",
+      "quote": "Net sales | $ | 4,950 | $ | 4,523"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CFO says the fourth quarter had record sales in each segment, a robust operating margin and strong cash generation.",
+        "quote": "Our fourth quarter was marked by record sales in each of our segments, a robust operating margin and strong cash generation"
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "The CEO says fiscal 2026 was a milestone year with record results that met the goals set at the 2023 Investor Day.",
+        "quote": "Fiscal 2026 was a milestone year for the company. We delivered record results and achieved the goals we established at our 2023 Investor Day"
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CFO expects record sales, stronger operating performance and meaningful operating cash flows in fiscal 2027.",
+        "quote": "In fiscal year 2027, we'll continue to build upon our financial strength with record sales, stronger operating performance and meaningful operating cash flows."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO and CFO speak of a milestone year, record results and record sales again in fiscal 2027, and mention no headwind."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/67887-0001628280-26-075170.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/67887/000162828026075170/ex991-112026.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/67887/000162828026075170/0001628280-26-075170-index.htm",
+    "saved_at": "2026-11-22T06:08:21+08:00"
   }
 ]
