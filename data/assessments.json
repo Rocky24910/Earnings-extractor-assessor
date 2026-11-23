@@ -20744,5 +20744,224 @@
     "filing_found": false,
     "recheck": true,
     "assessed_at": "2026-11-23T06:37:40+08:00"
+  },
+  {
+    "accession": "0001213900-26-122000",
+    "cik": "1838987",
+    "company": "SunPower Inc.",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "The 10-Q figures could not be read today: data.sec.gov was blocked (403) and sec_cache/ was 21 hours old. The quote is in the release and holds 65,090 USD thousands (65.09 millions), preliminary and unaudited."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "The 10-Q figures could not be read today (data.sec.gov blocked, 403). The quote holds the GAAP operating loss of (51,978) USD thousands, which includes a 22,570 AR reserve; preliminary and unaudited."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "The watcher left it empty. The release gives only an operating statement and a reconciliation to operating income, with no net income, so nothing is missing."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "The watcher left it empty. The release gives no diluted EPS, so nothing is missing."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "No 10-Q figure could be read today, so S1 rests on the quotes: both are in the release and hold revenue 65,090 and operating loss (51,978) USD thousands. The 10-Q check is still to come."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "The release gives no net income or EPS, so the two empty figures are not a fault. Revenue, operating income and the Q4 revenue target of $61.8 million are there."
+      },
+      "S3": {
+        "score": 4,
+        "reason": "Usable before 8:30 AM, but the analyst must know the figures are preliminary and unaudited and that the GAAP loss of 51.978 includes a 22.570 one-off reserve and a 20.1 impairment."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": "65.09 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      },
+      "operating_income": {
+        "extracted": "-51.978 USD millions",
+        "quote_found": true,
+        "number_in_quote": true,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "The filed figures could not be read today (blocked_by_routine_network: data.sec.gov (the network proxy answered 403))."
+      },
+      "net_income": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "diluted_eps": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      }
+    },
+    "claims": {
+      "M1": {
+        "verdict": "matches",
+        "reason": "Release table: revenue 65,090 against 54,858 in Q2, up 10,232 (+18.7%). The claim names the non-GAAP loss: 4,905 against 17,815, 3.6 times smaller. On GAAP the operating loss widened to 51,978 from 23,456."
+      },
+      "M2": {
+        "verdict": "matches",
+        "reason": "Release figures: 65.09m revenue x4 / 705 = $369,000 and / 640 = $407,000, so the arithmetic holds. Headcount itself cannot be checked; the GAAP operating loss widened to -51.978 from -23.456."
+      },
+      "M3": {
+        "verdict": "matches",
+        "reason": "Outlook: 61.8 is 5.1% below 65.09, as the claim says. It is a step back after revenue rose 18.7% on Q2 (release table: 65,090 against 54,858). No filed year-ago figure could be read today."
+      },
+      "M4": {
+        "verdict": "cannot check",
+        "reason": "The quality of the accounting and the hiring of Deloitte are not in the fundamentals. The figures are preliminary and unaudited, and no 10-Q figure could be read today."
+      }
+    },
+    "tone": {
+      "verdict": "supported",
+      "reason": "Release tables: revenue rose 18.7% on Q2 (65,090 against 54,858), but the GAAP operating loss widened to 51,978 from 23,456 and operating margin was -79.9%. A balanced tone fits."
+    },
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": 65.09,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": -51.978,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": -79.85558457520357,
+        "this_quarter_from": "release",
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says Q3 revenue of $65.1 million rose $10.2 million on Q2 and cut operating losses 3.6 times to $4.9 million (a non-GAAP figure).",
+        "quote": "we are very pleased to report Q3’26 revenue of $65.1 million, an increase of $10.2 million over Q2’26, which led to a 3.6x reduction in our operating losses to $4.9 million vs. Q2’26.",
+        "quote_found": true
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "The CEO says headcount fell from 705 to 640, raising annual revenue per employee from $369,000 to $406,000.",
+        "quote": "We have taken another step towards profitability by decreasing our headcount to 640 from 705 in Q3’26, driving our annual revenue per employee from $369,000 to $406,000",
+        "quote_found": true
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The company targets Q4 2026 revenue of $61.8 million, below Q3 2026.",
+        "quote": "we are targeting a Q4’26 revenue of $61.8 million, five percentage points below our Q3’26 performance of $65.1 million.",
+        "quote_found": true
+      },
+      {
+        "id": "M4",
+        "topic": "other",
+        "claim": "The CEO says the accounting has fallen short of his standards and Deloitte has been retained to take it over.",
+        "quote": "SunPower’s accounting has never met the zero-defect standards I enjoyed as the CEO of a Silicon Valley company, and we have now retained Deloitte",
+        "quote_found": true
+      }
+    ],
+    "watcher_tone": {
+      "label": "balanced",
+      "reason": "The CEO is very pleased with the Q3 recovery but admits two poor quarters and accounting shortfalls."
+    },
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": true,
+    "assessed_at": "2026-11-24T06:38:16+08:00"
   }
 ]
