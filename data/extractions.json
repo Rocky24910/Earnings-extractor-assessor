@@ -1579,5 +1579,139 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1853070/000149315226053633/ex99-1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1853070/000149315226053633/0001493152-26-053633-index.htm",
     "saved_at": "2026-11-25T06:08:24+08:00"
+  },
+  {
+    "cik": "895447",
+    "company": "SHOE STATION GROUP INC",
+    "accession": "0001193125-26-473085",
+    "release_date": "2026-11-24",
+    "period_end": "2026-10-31",
+    "period_label": "quarter ended 31 October 2026",
+    "figures": {
+      "revenue": {
+        "value": 279.956,
+        "unit": "USD millions",
+        "quote": "Net sales | $ | 279,956"
+      },
+      "operating_income": {
+        "value": -15.587,
+        "unit": "USD millions",
+        "quote": "Operating (loss) income | (15,587 | )"
+      },
+      "net_income": {
+        "value": -12.312,
+        "unit": "USD millions",
+        "quote": "Net (loss) income | $ | (12,312 | )"
+      },
+      "diluted_eps": {
+        "value": -0.46,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | (0.46 | )"
+      }
+    },
+    "guidance": {
+      "text": "For fiscal 2026 the company now expects net sales of $1.087 billion to $1.092 billion, a decline of about 4.3 to 3.8 percent on fiscal 2025.",
+      "quote": "Net sales of $1.087 billion to $1.092 billion, representing a decline of approximately 4.3 to 3.8 percent versus Fiscal 2025"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The interim CEO says third-quarter results were below the expectations set in September, as August's improvement did not continue.",
+        "quote": "Our third quarter results were below the expectations we set in September. The improvement we saw in August did not carry into September and October."
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "The interim CEO says boot sales came with higher average unit retails and improved margins.",
+        "quote": "Customers responded to our boot assortment as soon as the season opened, and those sales carried higher average unit retails and improved margins."
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The interim CEO says the company is debt-free with $116 million in cash and marketable securities.",
+        "quote": "We are debt-free, we ended the quarter with $116 million in cash and marketable securities"
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "The interim CEO says the company enters the holiday season with its strongest boot range in years and easing comparisons.",
+        "quote": "We enter the holiday season with the strongest boot assortment we have offered in years, intensified advertising, moderating fuel prices, and comparisons that ease as the quarter progresses."
+      }
+    ],
+    "tone": {
+      "label": "cautious",
+      "reason": "The interim CEO says results fell short of expectations and demand softened, while pointing to early encouraging signs for the holiday season."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/895447-0001193125-26-473085.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/895447/000119312526473085/shoe-ex99_1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/895447/000119312526473085/0001193125-26-473085-index.htm",
+    "saved_at": "2026-11-26T06:08:36+08:00"
+  },
+  {
+    "cik": "1579298",
+    "company": "Burlington Stores, Inc.",
+    "accession": "0001193125-26-473122",
+    "release_date": "2026-11-24",
+    "period_end": "2026-10-31",
+    "period_label": "quarter ended 31 October 2026",
+    "figures": {
+      "revenue": {
+        "value": 2937.359,
+        "unit": "USD millions",
+        "quote": "Total revenue | 2,937,359"
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": 105.741,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 105,741"
+      },
+      "diluted_eps": {
+        "value": 1.67,
+        "unit": "USD per share",
+        "quote": "Diluted net income per common share | $ | 1.67"
+      }
+    },
+    "guidance": {
+      "text": "For fiscal 2026 the company now expects total sales to rise about 10%, with comparable store sales up 2% to 3%.",
+      "quote": "Total sales to increase approximately 10% on top of the 9% increase during Fiscal 2025; this assumes comparable store sales will increase in the range of 2% to 3%"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says total sales rose 8% and comparable store sales 1%, and that he is disappointed with this result.",
+        "quote": "Total sales increased 8% in the third quarter, while comp store sales increased 1%. We are disappointed with this result."
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "The CEO says Adjusted EPS came in above guidance despite comp growth at the low end of the range.",
+        "quote": "Despite comp growth coming in at the low end of our guidance range, we were pleased to deliver Adjusted EPS above our guidance."
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "The CEO says fourth-quarter EPS guidance is cut by $0.20 for higher fuel surcharges and freight costs.",
+        "quote": "We are adjusting our Q4 EPS guidance down by $0.20 to account for higher fuel surcharges and freight costs."
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "The CEO says full-year EPS growth is still expected in the mid-teens.",
+        "quote": "It is worth calling out that despite these adjustments our full year EPS growth is still projected to be in the mid-teens."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO calls the comp result disappointing and cuts Q4 EPS guidance, but stresses EPS above guidance and confidence in the longer term."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1579298-0001193125-26-473122.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1579298/000119312526473122/burl-ex99_1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1579298/000119312526473122/0001193125-26-473122-index.htm",
+    "saved_at": "2026-11-26T06:08:36+08:00"
   }
 ]
