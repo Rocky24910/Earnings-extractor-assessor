@@ -1713,5 +1713,108 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1579298/000119312526473122/burl-ex99_1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1579298/000119312526473122/0001193125-26-473122-index.htm",
     "saved_at": "2026-11-26T06:08:36+08:00"
+  },
+  {
+    "cik": "1901637",
+    "company": "USCB FINANCIAL HOLDINGS, INC.",
+    "accession": "0000927089-26-000198",
+    "release_date": "2026-11-25",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "diluted_eps": null
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "outlook",
+        "claim": "The CEO says selling securities is a deliberate step towards stronger recurring earnings and a better net interest margin.",
+        "quote": "This transaction is a deliberate step toward stronger recurring earnings and an improved net interest margin, which we believe will deliver greater value for the Company and our shareholders"
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "The sale will bring a one-time after-tax loss of about $3.7 million in the fourth quarter of 2026.",
+        "quote": "The sale will result in an estimated one-time after-tax loss of approximately $3.7 million ($4.9 million pre-tax) that will be recorded in the fourth quarter of 2026."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The company expects the repositioning to add about $0.8 million of net interest income in the first year.",
+        "quote": "the repositioning is expected to increase net interest income by approximately $0.8 million in the first year"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO speaks of a strong capital position and a deliberate step towards stronger recurring earnings, and names the one-time loss plainly."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1901637-0000927089-26-000198.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1901637/000092708926000198/ex_1051057.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1901637/000092708926000198/0000927089-26-000198-index.htm",
+    "saved_at": "2026-11-27T06:08:01+08:00"
+  },
+  {
+    "cik": "315189",
+    "company": "DEERE & CO",
+    "accession": "0001104659-26-131741",
+    "release_date": "2026-11-25",
+    "period_end": "2026-11-01",
+    "period_label": "quarter ended 1 November 2026",
+    "figures": {
+      "revenue": {
+        "value": 12115,
+        "unit": "USD millions",
+        "quote": "Total net sales and revenues | $ | 12,115"
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": 1051,
+        "unit": "USD millions",
+        "quote": "Net Income Attributable to Deere & Company | $ | 1,051"
+      },
+      "diluted_eps": {
+        "value": 3.89,
+        "unit": "USD per share",
+        "quote": "Diluted | 3.89"
+      }
+    },
+    "guidance": {
+      "text": "Deere forecasts net income attributable to Deere & Company of $4.50 to $5.25 billion for fiscal 2027.",
+      "quote": "Net income attributable to Deere & Company for fiscal 2027 is forecasted to be in a range of $4.50 to $5.25 billion."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The CEO says results are structurally stronger than at the same point in the last cycle.",
+        "quote": "Our results are structurally stronger compared with the same point in the last cycle, and we delivered them while sustaining investments and continuing to return capital to shareholders."
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The CEO sees early signs of improvement in large agriculture, led by North America.",
+        "quote": "As we enter fiscal 2027, we’re seeing early signs of improvement in large agriculture, led by North America,"
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "Because of continued uncertainty in key end markets, the outlook gives a wider range of outcomes.",
+        "quote": "Given continued uncertainty in key end markets, our outlook reflects a wider range of outcomes."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO stresses disciplined execution and early signs of improvement, but also continued uncertainty and a wider range of outcomes."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/315189-0001104659-26-131741.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/315189/000110465926131741/de-ex99d1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/315189/000110465926131741/0001104659-26-131741-index.htm",
+    "saved_at": "2026-11-27T06:08:01+08:00"
   }
 ]
